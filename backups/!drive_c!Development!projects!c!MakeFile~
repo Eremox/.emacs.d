@@ -1,2 +1,0 @@
-hellomake: main.c
-     gcc -o hcore main.c -std=c11

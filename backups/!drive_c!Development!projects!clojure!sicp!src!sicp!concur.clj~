@@ -1,2 +1,0 @@
-(ns sicp.cincur
-  (:require [clojure.core.async :refer :all]))
