@@ -1,0 +1,1 @@
+(define-package "helm-sage" "20141130.549" "A helm extension for sage-shell-mode." '((cl-lib "0.5") (helm "1.5.6") (sage-shell-mode "0.0.1")) :url "https://github.com/stakemori/helm-sage" :keywords '("sage" "math" "helm"))
