@@ -1,0 +1,6 @@
+
+
+main :: IO ()
+main  = putStrLn "99 Haskell problems."
+
+

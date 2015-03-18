@@ -1,0 +1,338 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Tobias/.emacs.d/elpa/" . "cygwin-mount-20131111.2146/")
+ ("c:/development/projects/haskell/" . "haskellsicp/")
+ ("c:/development/projects/sicp/src/" . "sicp/")
+ ("c:/development/projects/sicp/" . "src/")
+ ("c:/Development/projects/clojure/word-processor/src/" . "word_processor/")
+ ("c:/Development/projects/clojure/word-processor/" . "src/")
+ ("c:/development/projects/clojure/bignum-calc/src/" . "bignum_calc/")
+ ("c:/development/projects/clojure/bignum-calc/" . "src/")
+ ("c:/Development/projects/clojure/sicp/src/" . "sicp/")
+ ("c:/Development/projects/clojure/sicp/" . "src/")
+ ("c:/Program Files (x86)/Python34/" . "Lib/")
+ ("c:/Program Files (x86)/" . "Python34/")
+ ("c:/Development/projects/clojure/calculus_evaluator/src/" . "calculus_evaluator/")
+ ("c:/Development/projects/clojure/calculus_evaluator/" . "src/")
+ ("c:/Development/projects/clojure/rational-numbers-package/src/" . "rational_numbers_package/")
+ ("c:/Development/projects/clojure/rational-numbers-package/" . "src/")
+ ("c:/Development/projects/clojure/exocrawler/src/" . "exocrawler/")
+ ("c:/Development/projects/clojure/exocrawler/" . "src/")
+ ("c:/development/projects/clojure/rational-numbers-package/src/" . "rational_numbers_package/")
+ ("c:/development/projects/clojure/rational-numbers-package/" . "src/")
+ ("c:/Development/projects/clojure/comp/resources/" . "public/")
+ ("c:/Development/projects/clojure/comp/src/" . "comp/")
+ ("c:/Development/projects/clojure/comp/" . "resources/")
+ ("c:/Users/Tobias/.emacs.d/" . "elpa/")
+ ("c:/development/projects/clojure/sicp/src/" . "sicp/")
+ ("c:/development/projects/clojure/sicp/" . "src/")
+ ("c:/Development/projects/clojure/learning_compojure/src/" . "learning_compojure/")
+ ("c:/Development/projects/clojure/learning_compojure/" . "src/")
+ ("c:/development/projects/clojure/irc-dilbertbot/src/" . "irc-dilbertbot/")
+ ("c:/development/projects/clojure/irc-dilbertbot/" . "src/")
+ ("c:/development/projects/clojure/lisp-eval/src/" . "lisp_eval/")
+ ("c:/development/projects/clojure/lisp-eval/" . "src/")
+ ("c:/development/projects/clojure/tag-gen/src/" . "tag_gen/")
+ ("c:/development/projects/clojure/tag-gen/" . "src/")
+ ("c:/development/projects/clojure/ircclient/src/" . "ircclient/")
+ ("c:/development/projects/clojure/ircclient/" . "src/")
+ ("c:/development/" . "projects/")
+ ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/pallet/" . "stevedore/")
+ ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/" . "pallet/")
+ ("c:/development/projects/clojure/Third Party Software/script-DSL-master/" . "src/")
+ ("c:/Development/projects/clojure/Third Party Software/4clojure-develop/src/" . "foreclojure/")
+ ("c:/Development/projects/clojure/Third Party Software/4clojure-develop/" . "src/")
+ ("c:/Development/projects/clojure/Third Party Software/" . "4clojure-develop/")
+ ("c:/development/projects/clojure/Third Party Software/bifrost-master/src/uswitch/" . "bifrost/")
+ ("c:/development/projects/clojure/Third Party Software/bifrost-master/src/" . "uswitch/")
+ ("c:/development/projects/clojure/Third Party Software/bifrost-master/" . "src/")
+ ("c:/development/projects/clojure/Third Party Software/" . "script-DSL-master/")
+ ("c:/Development/projects/clojure/lisp_problems/src/" . "lisp_problems/")
+ ("c:/Development/projects/clojure/lisp_problems/" . "src/")
+ ("c:/development/projects/clojure/lisp_problems/src/" . "lisp_problems/")
+ ("c:/development/projects/clojure/lisp_problems/" . "src/")
+ ("c:/Users/Tobias/" . ".emacs.d/")
+ ("c:/Users/" . "Tobias/")
+ ("c:/Development/projects/clojure/clocrypt/src/" . "clocrypt/")
+ ("c:/Development/projects/clojure/clocrypt/" . "src/")
+ ("c:/Development/projects/clojure/learning/src/" . "learning/")
+ ("c:/Development/projects/clojure/learning/" . "src/")
+ ("c:/Development/projects/clojure/" . "rational-numbers-package/")
+ ("c:/Development/projects/" . "clojure/")
+ ("c:/Development/" . "projects/")
+ ("c:/" . "Users/")
+ ("c:/development/projects/clojure/learning/src/" . "learning/")
+ ("c:/development/projects/clojure/learning/" . "src/")
+ ("c:/development/projects/clojure/" . "sicp/")
+ ("c:/development/projects/" . "c/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Tobias/.emacs.d/"
+ "c:/Users/Tobias/.emacs.d/elpa/cygwin-mount-20131111.2146/"
+ "c:/Users/Tobias/.emacs.d/customizations/"
+ "c:/development/projects/c/"
+ "c:/development/projects/haskell/haskellsicp/"
+ "c:/Development/projects/haskell/haskellsicp/"
+ "c:/Users/Tobias/.emacs.d/elpa/solarized-theme-20150308.128/"
+ "c:/Development/projects/clojure/sicp/src/sicp/"
+ "c:/development/projects/clojure/sicp/src/sicp/"
+ "c:/development/projects/clojure/sicp/"
+ "c:/development/projects/sicp/src/sicp/"
+ "c:/Users/Tobias/Desktop/"
+ "c:/Development/projects/clojure/word-processor/src/word_processor/"
+ "c:/development/projects/clojure/word-processor/"
+ "c:/development/projects/clojure/lisp_problems/src/lisp_problems/"
+ "c:/Development/projects/clojure/rational-numbers-package/src/rational_numbers_package/"
+ "c:/development/projects/clojure/bignum-calc/src/bignum_calc/"
+ "c:/development/projects/clojure/rational-numbers-package/src/rational_numbers_package/"
+ "c:/Program Files (x86)/Python34/Lib/"
+ "c:/Development/projects/clojure/calculus_evaluator/src/calculus_evaluator/"
+ "c:/Development/projects/clojure/exocrawler/src/exocrawler/"
+ "c:/development/projects/clojure/exocrawler/"
+ "c:/Development/projects/clojure/comp/"
+ "c:/Development/projects/clojure/comp/src/cljs/comp/"
+ "c:/Development/projects/clojure/comp/resources/public/"
+ "c:/Development/projects/clojure/comp/src/comp/"
+ "c:/development/projects/clojure/irc-dilbertbot/src/irc-dilbertbot/"
+ "c:/Development/projects/clojure/lisp_problems/src/lisp_problems/"
+ "c:/development/projects/clojure/learning/src/learning/"
+ "c:/Development/projects/clojure/learning_compojure/src/learning_compojure/"
+ "c:/development/projects/clojure/learning_compojure/"
+ "c:/Development/projects/clojure/learning/src/learning/"
+ "c:/development/projects/clojure/lisp-eval/src/lisp_eval/"
+ "c:/Development/projects/clojure/lisp-eval/"
+ "c:/development/projects/clojure/tag-gen/src/tag_gen/"
+ "c:/development/projects/clojure/ircclient/src/ircclient/"
+ "c:/Development/projects/clojure/learning/"
+ "c:/development/projects/clojure/Third Party Software/script-DSL-master/src/pallet/stevedore/"
+ "c:/Development/projects/clojure/Third Party Software/4clojure-develop/src/foreclojure/"
+ "c:/Development/projects/clojure/Third Party Software/bifrost-master/src/uswitch/bifrost/"
+ "c:/development/projects/clojure/Third Party Software/bifrost-master/src/uswitch/bifrost/"
+ "c:/Development/projects/clojure/lisp_problems/"
+ "c:/Development/projects/clojure/clocrypt/src/clocrypt/"
+ "c:/development/projects/clojure/clocrypt/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "cygwin-mount.el"
+ "setup-cygwin.el"
+ "main.c"
+ "haskell99.hs"
+ "haskellsicp.cabal"
+ "99-haskelproblems.hs"
+ "Setup.hs"
+ "c-setup.el"
+ "setup-clojure.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Tobias/.emacs.d/elpa/cygwin-mount-20131111.2146/" (21769 7344 0 0) "cygwin-mount.elc" "cygwin-mount.el" "cygwin-mount-pkg.elc" "cygwin-mount-pkg.el" "cygwin-mount-autoloads.el" "../" "./")
+
+ ("c:/Users/Tobias/.emacs.d/elpa/" (21769 7275 0 0) "zen-and-art-theme-20120622.737/" "yasnippet-20150212.240/" "tagedit-20140618.521/" "spacegray-theme-20131230.1127/" "soothe-theme-20141027.741/" "solarized-theme-20150308.128/" "smex-20140425.1314/" "setup-cygwin-21.0/" "scion-20130315.555/" "sage-shell-mode-20150309.554/" "s-20140714.707/" "rainbow-mode-0.10/" "rainbow-delimiters-20140713.1131/" "queue-0.1.1/" "pyvenv-20150218.2323/" "popup-20150116.1223/" "pkg-info-20140610.630/" "paredit-20140128.1248/" "nlinum-1.6/" "monokai-theme-20150112.442/" "mode-compile-2.29/" "magit-20140720.358/" "leuven-theme-20150116.442/" "let-alist-1.0.3/" "inf-clojure-20150118.1153/" "ido-ubiquitous-20140526.1306/" "hindent-20150120.615/" "highlight-indentation-20150307.208/" "helm-sage-20141130.549/" "helm-20150311.110/" "haskell-mode-readme.txt" "haskell-mode-20150311.1304/" "grandshell-theme-20140415.2225/" "gnupg/" "git-rebase-mode-20140605.520/" "git-commit-mode-20140605.520/" "ghc-readme.txt" "ghc-1.10.2/" "flycheck-google-cpplint-20140806.925/" "flycheck-clojure-20150116.234/" "flycheck-20150207.329/" "flatland-black-theme-20141115.2230/" "find-file-in-project-20141214.1952/" "exec-path-from-shell-20141212.846/" "erc-nick-notify-0.2.1/" "erc-colorize-readme.txt" "erc-colorize-20150113.1149/" "epl-20140620.218/" "emms-readme.txt" "emacs-cl-0.5/" "elpy-1.7.1/" "ediprolog-1.0/" "direx-20141214.2059/" "deferred-20150309.2052/" "dash-20140717.547/" "dark-krystal-theme-20141115.2301/" "cygwin-mount-20131111.2146/" "cyberpunk-theme-20140630.1800/" "company-20150310.950/" "color-theme-heroku-1.0.0/" "color-theme-20080305.34/" "clojure-snippets-20140831.912/" "clojure-mode-readme.txt" "clojure-mode-extra-font-locking-readme.txt" "clojure-mode-extra-font-locking-20150110.505/" "clojure-mode-20150113.1048/" "clojure-env-0.0.4/" "clojure-cheatsheet-readme.txt" "cider-spy-readme.txt" "cider-readme.txt" "cider-profile-readme.txt" "cider-decompile-readme.txt" "cider-20150308.900/" "cherry-blossom-theme-20140930.1722/" "boron-theme-20150117.952/" "bliss-theme-20141115.2301/" "autopair-20140825.427/" "auto-complete-20150201.150/" "async-20150203.2127/" "assemblage-theme-20130715.621/" "archives/" "ac-cider-readme.txt" "ac-cider-20150306.254/" "../" "./")
+
+ ("c:/Users/Tobias/.emacs.d/" (21769 7304 0 0) "themes/" "places" "init.el.before_ecb_2.40" "init.el" "ido.last" "elpa/" "ede-projects.el" "ecb/" "customizations/" "cider-history" "backups/" "auto-save-list/" "ac-comphist.dat" ".smex-items" ".recentf" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("c:/Users/Tobias/" (21767 53355 0 0) "_viminfo" "Videos/" "Templates/" "Start Menu/" "Snapshots/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "gsview64.ini" "Favorites/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Cookies/" "Contacts/" "Atto-URLCrawler/" "Application Data/" "AppData/" ".yjp/" ".swt/" ".ssh/" ".p2/" ".m2/" ".lein/" ".IdeaIC14/" ".history" ".gitconfig" ".emacs.d/" ".eclipse/" ".clion10/" ".bash_history" "../" "./")
+
+ ("c:/Users/Tobias/.emacs.d/customizations/" (21769 7067 0 0) "ui.el" "shell-integration.el" "setup-erc.el" "setup-cygwin.el" "setup-clojure.el" "pretty-lambda.el" "navigation.el" "misc.el" "java-setup.el" "haskell-setup.el" "editing.el" "column-marker.el" "c-setup.el" "../" "./")
+
+ ("c:/development/projects/c/" (21767 53038 0 0) "makefile.1" "main.c" "../" "./")
+
+ ("c:/development/projects/haskell/haskellsicp/" (21768 38261 0 0) "haskell99.hs" "../" "./")
+
+ ("c:/Development/projects/haskell/haskellsicp/" (21768 24625 0 0) "haskell99.hs" "../" "./")
+
+ ("c:/development/projects/" (21767 52698 0 0) "java/" "haskell/" "clojure/" "c/" "../" "./")
+
+ ("c:/Development/projects/" (21767 52698 0 0) "java/" "haskell/" "clojure/" "c/" "../" "./")
+
+ ("c:/Development/projects/c/" (21767 52908 0 0) "makefile.1" "main.c" "../" "./")
+
+ ("c:/Users/Tobias/.emacs.d/elpa/solarized-theme-20150308.128/" (21766 59805 0 0) "solarized.el" "solarized-theme.elc" "solarized-theme.el" "solarized-theme-utils.elc" "solarized-theme-utils.el" "solarized-theme-pkg.el" "solarized-theme-autoloads.el" "solarized-light-theme.elc" "solarized-light-theme.el" "solarized-dark-theme.elc" "solarized-dark-theme.el" "../" "./")
+
+ ("c:/Development/projects/haskell/" (21765 11598 0 0) "haskellsicp/" "../" "./")
+
+ ("c:/Development/projects/clojure/sicp/src/sicp/" (21766 39640 0 0) "core.clj" "concur.clj" "../" "./")
+
+ ("c:/development/projects/clojure/sicp/src/sicp/" (21765 62554 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/sicp/" (21765 34956 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "classes/" "bin/" ".settings/" ".project" ".nrepl-port" ".hgignore" ".gitignore" ".classpath" "../" "./")
+
+ ("c:/Development/projects/clojure/sicp/src/" (21763 15625 0 0) "sicp/" "../" "./")
+
+ ("c:/Development/projects/clojure/sicp/" (21765 34956 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "classes/" "bin/" ".settings/" ".project" ".nrepl-port" ".hgignore" ".gitignore" ".classpath" "../" "./")
+
+ ("c:/development/projects/haskell/" (21765 11598 0 0) "haskellsicp/" "../" "./")
+
+ ("c:/Development/projects/sicp/src/sicp/" (21764 43213 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/sicp/src/sicp/" (21764 43213 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/sicp/" (21764 40957 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "classes/" "bin/" ".settings/" ".project" ".nrepl-port" ".gitignore" ".classpath" "../" "./")
+
+ ("c:/development/projects/sicp/src/" (21764 25230 0 0) "sicp/" "../" "./")
+
+ ("c:/development/projects/clojure/sicp/src/" (21763 15625 0 0) "sicp/" "../" "./")
+
+ ("c:/development/projects/clojure/" (21764 21438 0 0) "word-processor/" "sicp/" "rational-numbers-package/" "lisp_problems/" "irc-dilbertbot/" "calculus_evaluator/" "bignum-calc/" "../" "./")
+
+ ("c:/Users/Tobias/Desktop/" (21763 7859 0 0) "Vuze Leap.lnk" "Photoshop.lnk" "paredit-refcard.pdf" "paip.pdf" "Music/" "Matteprov/" "liteide/" "learninghaskell.hs" "Java Editor.lnk" "GoLang Editor.lnk" "GitHub.appref-ms" "emacs.lnk" "desktop.ini" "Command Prompt.lnk" "Battle.net.lnk" "Adobe Illustrator CC (64 Bit).lnk" "../" "./")
+
+ ("c:/development/" (21760 33274 0 0) "projects/" "gocode/" "../" "./")
+
+ ("c:/Development/projects/clojure/word-processor/src/word_processor/" (21761 50340 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/word-processor/" (21761 49505 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/Development/projects/clojure/word-processor/" (21761 49505 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/Development/projects/clojure/" (21761 48838 0 0) "word-processor/" "rational-numbers-package/" "lisp_problems/" "irc-dilbertbot/" "calculus_evaluator/" "bignum-calc/" "../" "./")
+
+ ("c:/Development/projects/clojure/word-processor/src/" (21761 48838 0 0) "word_processor/" "../" "./")
+
+ ("c:/development/projects/clojure/lisp_problems/src/lisp_problems/" (21742 54356 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/bignum-calc/" (21760 14557 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/Development/projects/clojure/rational-numbers-package/src/rational_numbers_package/" (21759 16626 0 0) "core.clj" "../" "./")
+
+ ("c:/Development/" (21760 33274 0 0) "projects/" "gocode/" "../" "./")
+
+ ("c:/Users/" (21695 25157 0 0) "Tobias/" "Public/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/Tobias/AppData/" (21703 58041 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Users/Tobias/AppData/Local/" (21761 11648 0 0) "VirtualStore/" "Unity/" "Ubisoft Game Launcher/" "Temporary Internet Files/" "Temp/" "SteelSeries Engine 3 Client/" "Sony/" "SKIDROW/" "Setup Integrity Check/" "Resmon.ResmonCfg" "Razer_Inc/" "Razer/" "Programs/" "pip/" "pcc.exe" "Packages/" "NeoSmart_Technologies/" "MSfree Inc/" "Mozilla/" "Microsoft_Corporation/" "Microsoft Help/" "Microsoft/" "Macromedia/" "liteide/" "LightTable/" "IconCache.db" "History/" "Google/" "GitHub/" "Game Updater/" "fontconfig/" "file__0.localstorage" "EmieUserList/" "EmieSiteList/" "EmieBrowserModeList/" "ElevatedDiagnostics/" "Eclipse/" "Downloaded Installations/" "Diagnostics/" "Deployment/" "common-lisp/" "Blizzard Entertainment/" "Battle.net/" "Axialis/" "ATI/" "Apps/" "Application Data/" "Adobe Save for Web 13.0 Prefs" "Adobe/" "../" "./")
+
+ ("c:/Users/Tobias/AppData/Local/Temp/" (21761 38902 0 0) "~spD924.tmp" "{32FC0C58-5AC2-4B55-8626-BEFAA53A1F45}/" "_uninstall/" "_iu14D2N.tmp" "ym3j014n/" "yjp201410231637.jar" "y4yowjbu/" "y0kzswdf/" "xbzb5jwm/" "wvelr4ap/" "wmplog00.sqm" "wbq5tynw/" "wauhtnwo/" "vw33czhn/" "uninstall-postgresql.log" "un26711.exe" "un05dqaj/" "uftmpy2x/" "ua4zacdj/" "tooktw5o/" "Tobias.bmp" "tmp_zftjd" "tmpzzf7yw" "tmpz0kju9" "tmpxulofj" "tmpxj3nmb" "tmpxhfv57" "tmpwaac9r" "tmpw6p5kn" "tmpvuippc" "tmpvqdn5t" "tmpuue40t" "tmpur7odm" "tmpuprn0c" "tmptwo5ce" "tmptflbq4" "tmpsxhiq5" "tmpsmzmsn" "tmpskl0fm" "tmpsjydw1" "tmpsg7b3q" "tmprsjx0i" "tmprkhgu8" "tmprjfmw6" "tmprjdozx" "tmprfspxo" "tmprfiyz9" "tmprei7zs" "tmpralzde" "tmpqs6n_q" "tmpqosd4t" "tmpqnsdzj" "tmpqlbuog" "tmpqgkbnw" "tmpq9acuu" "tmpq5bkpn" "tmpptabns" "tmppqn0m8" "tmppot8l2" "tmpp5vdw5" "tmpo_yxr7" "tmpomcuxn" "tmpo8bedq" "tmpnzq2ub" "tmpntxuz4" "tmpnsl5lh" "tmpno1s3t" "tmpmr_bnc" "tmpmgdj3k" "tmplwwygz" "tmplcewu5" "tmpl1ewxn" "tmpkrk_u5" "tmpkhaimo" "tmpkdhwz3" "tmpkcvwot" "tmpk6n3py" "tmpk3vlyz" "tmpjzqdf6" "tmpjsbyvl" "tmpjrzob_" "tmpjhrtc5" "tmpjh9mqg" "tmpiwkfoc" "tmpipbmtv" "tmpi4rxfm" "tmpi34tic" "tmphzxc62" "tmphxdnim" "tmphueeqp" "tmphgabqc" "tmphcz3zr" "tmphbcgzo" "tmpgo0cxj" "tmpgmhm80" "tmpgkgpww" "tmpfylnzl" "tmpfriocx" "tmpeoskoj" "tmpef7hac" "tmpdo6n71" "tmpdmqrpb" "tmpdmnig5" "tmpdiqspy" "tmpd9hxsf" "tmpd5ew0u" "tmpcs0vwg" "tmpcjac0z" "tmpcffamn" "tmpc8dkxf" "tmpbwlewg" "tmpbu2fp5" "tmpbnu7ln" "tmpbd8mnp" "tmpanztxu" "tmpaf6jze" "tmpaf4i3e" "tmpabrfxx" "tmp9mwvrl" "tmp95etgm" "tmp8mhidr" "tmp8macfe" "tmp8k12z3" "tmp8a63si" "tmp7zf2fw" "tmp7xazmv" "tmp7ehysa" "tmp7djwkx" "tmp6rd9nv" "tmp6hbige" "tmp6fr3pn" "tmp5vbrom" "tmp5spvkg" "tmp4o5xrh" "tmp4m0pkk" "tmp4hn3ja" "tmp2wylp7" "tmp2wtfdn" "tmp2q4mrt" "tmp10g9zg" "tmp0_0lns" "tmp-q4a.xpi" "tmp-3po.xpi" "tmp-1hm.xpi" "TCDF30C.tmp/" "TCDF2FA.tmp/" "TCDF2E9.tmp/" "TCDF2B8.tmp/" "TCDF2A7.tmp/" "TCDF1E9.tmp/" "TCDF1D7.tmp/" "TCDF196.tmp/" "TCDF146.tmp/" "TCDF115.tmp/" "TCDF0B6.tmp/" "TCDF075.tmp/" "TCDEF89.tmp/" "TCDEF77.tmp/" "TCDEF08.tmp/" "TCDEEE7.tmp/" "TCDEEB6.tmp/" "TCDEEB5.tmp/" "TCDEE54.tmp/" "TCDEE13.tmp/" "TCDEE12.tmp/" "TCDEE11.tmp/" "TCDEE10.tmp/" "TCDEE0F.tmp/" "TCDEE0E.tmp/" "TCDEE0D.tmp/" "TCDEE06.tmp/" "TCDEDF4.tmp/" "TCDEDF3.tmp/" "TCDEDF2.tmp/" "TCDEDF1.tmp/" "TCDEDF0.tmp/" "TCDEDEF.tmp/" "TCDEDEE.tmp/" "TCDEDED.tmp/" "TCDEDDC.tmp/" "TCDEDDA.tmp/" "TCDEDD8.tmp/" "TCDEDD7.tmp/" "TCDEDCC.tmp/" "TCDEDCB.tmp/" "TCDEDCA.tmp/" "TCDEDC9.tmp/" "TCDEDC8.tmp/" "TCDEDC7.tmp/" "TCDEDB7.tmp/" "TCDEDB6.tmp/" "TCDEDB5.tmp/" "TCDD0FF.tmp/" "TCDD0FE.tmp/" "TCDD0FB.tmp/" "TCDD0FA.tmp/" "TCDD0E7.tmp/" "TCDD0C6.tmp/" "TCDD0C5.tmp/" "TCDD0C4.tmp/" "TCDD0C3.tmp/" "TCDD0C2.tmp/" "TCDD0BC.tmp/" "TCDD0BB.tmp/" "TCDD0BA.tmp/" "TCDD0B9.tmp/" "TCDD0B8.tmp/" "TCDD0B7.tmp/" "TCDD0B4.tmp/" "System.Data.SQLite6757827f-d3ea-4ee5-b344-e3223c1e7750.dll" "System.Data.SQLite.dll" "swtag.log" "ssh-ZQTIITjqsXqx/" "ssh-z3VGl5FaSzlu/" "ssh-y1DkK0vWz8Zm/" "ssh-xtPIM1MGgawC/" "ssh-vM7lM6zBSlLK/" "ssh-sWidBa5hEB8v/" "ssh-rhxezNM7JWBW/" "ssh-r7ViyXwvU0vk/" "ssh-r2fgA0oZ9U5E/" "ssh-lh9vPrh8al6T/" "ssh-KMapAcvA7WAb/" "ssh-JhG6nCTyDOwi/" "ssh-gRaFYsYAPcxz/" "ssh-ChzHWfiR3t0D/" "ssh-AqcyUGbFO3SK/" "ssh-AfreTmQkgIcc/" "ssh-9j3xtIOsq5dQ/" "ssh-5vogeQQbGXOo/" "ssh-3Vy2PJYBfOUX/" "ssh-1mPXyeLE6HAv/" "Sony/" "solarized-emacs-master.zip" "simple/" "Silverlight0.log" "sflo3ecx/" "Setup Log 2015-02-11 #001.txt" "sdyn1w0o/" "s3dwn34f/" "Rar$DRa0.904/" "Rar$DRa0.829/" "Rar$DRa0.656/" "Rar$DRa0.485/" "rad31950.tmp" "Programmer.jar.zip" "plugtmp/" "plugin3/" "plugin2/" "plugin1/" "plugin0/" "placeholder16.png" "placeholder.png" "PhotoshopCrashes/" "PDApp.log" "oyklx1pk/" "org.eclipse.cdt.dsf.gdb6482025694888749750/" "oobelib.log" "on1oafn2/" "nsy6A30.tmp/" "nbn1xvf3/" "native-platform6702259220492531962dir/" "n053spqf/" "mwiaqk1m/" "muelxbzf/" "msohtmlclip1/" "msohtmlclip/" "MpCmdRun.log" "mkudahue/" "meyffawp/" "main.java0.tmp/" "M-1m.zip" "ly2venut/" "luv-slides.pdf" "lilo.6016/" "lfaai5xz/" "LCFEM/" "jyeq1ulg/" "jusched.log" "jna/" "jmc.pdf" "JavaDeployReg.log" "jansi-64-7409219258739223979.dll" "jansi-64-5085126168115714803.dll" "jansi-64-5051981886723405307.dll" "jansi-64-4467561675289410092.dll" "jansi-64-4430292314978001132.dll" "j0lyquas/" "is-TI5NT.tmp/" "is-N7HKL.tmp/" "Intel/" "install-postgresql.log" "IFn.java0.tmp/" "icgrxfos/" "i3qw154u/" "hwkwg2r3/" "hsperfdata_Tobias/" "h1odhzad/" "gofmt4572uTG.go" "gofmt4572iu2.go" "gofmt4572Ihe.go" "gofmt4572h7X.go" "go-build829232139/" "ghc9212_0/" "ghc9144_0/" "ghc8952_0/" "ghc8836_0/" "ghc8684_0/" "ghc8508_0/" "ghc7820_0/" "ghc6284_0/" "ghc5952_0/" "ghc4396_0/" "ghc4384_0/" "ghc416_0/" "ghc4036_0/" "ghc3768_0/" "ghc3480_0/" "ghc24260_0/" "ghc23296_0/" "ghc22908_0/" "ghc22872_0/" "ghc22060_0/" "ghc21532_0/" "ghc20644_0/" "ghc2044_0/" "ghc18852_0/" "ghc1812_0/" "ghc1528_0/" "ghc10540_0/" "ghc-modc--Development-projects-haskell9214/" "ghc-modc--Development-projects-haskell9212/" "ghc-modc--Development-projects-haskell9146/" "ghc-modc--Development-projects-haskell9144/" "ghc-modc--Development-projects-haskell8954/" "ghc-modc--Development-projects-haskell8952/" "ghc-modc--Development-projects-haskell8686/" "ghc-modc--Development-projects-haskell8684/" "ghc-modc--Development-projects-haskell8510/" "ghc-modc--Development-projects-haskell8508/" "ghc-modc--Development-projects-haskell7822/" "ghc-modc--Development-projects-haskell7820/" "ghc-modc--Development-projects-haskell6286/" "ghc-modc--Development-projects-haskell6284/" "ghc-modc--Development-projects-haskell5954/" "ghc-modc--Development-projects-haskell5952/" "ghc-modc--Development-projects-haskell4397/" "ghc-modc--Development-projects-haskell4396/" "ghc-modc--Development-projects-haskell4386/" "ghc-modc--Development-projects-haskell4385/" "ghc-modc--Development-projects-haskell4384/" "ghc-modc--Development-projects-haskell418/" "ghc-modc--Development-projects-haskell416/" "ghc-modc--Development-projects-haskell4038/" "ghc-modc--Development-projects-haskell4036/" "ghc-modc--Development-projects-haskell3770/" "ghc-modc--Development-projects-haskell3769/" "ghc-modc--Development-projects-haskell3768/" "ghc-modc--Development-projects-haskell3482/" "ghc-modc--Development-projects-haskell3480/" "ghc-modc--Development-projects-haskell24262/" "ghc-modc--Development-projects-haskell24260/" "ghc-modc--Development-projects-haskell23298/" "ghc-modc--Development-projects-haskell23296/" "ghc-modc--Development-projects-haskell22910/" "ghc-modc--Development-projects-haskell22908/" "ghc-modc--Development-projects-haskell22874/" "ghc-modc--Development-projects-haskell22872/" "ghc-modc--Development-projects-haskell22062/" "ghc-modc--Development-projects-haskell22060/" "ghc-modc--Development-projects-haskell21534/" "ghc-modc--Development-projects-haskell21532/" "ghc-modc--Development-projects-haskell20646/" "ghc-modc--Development-projects-haskell20644/" "ghc-modc--Development-projects-haskell2046/" "ghc-modc--Development-projects-haskell2044/" "ghc-modc--Development-projects-haskell18854/" "ghc-modc--Development-projects-haskell18852/" "ghc-modc--Development-projects-haskell1530/" "ghc-modc--Development-projects-haskell1529/" "ghc-modc--Development-projects-haskell1528/" "ghc-modc--Development-projects-haskell-learning10542/" "ghc-modc--Development-projects-haskell-learning10540/" "genteeE2/" "gentee78/" "gentee59/" "gentee49/" "gentee3D/" "gentee14/" "form-init993032816841430599.clj" "form-init945960424992315052.clj" "form-init9159084299552413965.clj" "form-init9154805860111017324.clj" "form-init9070002035012038624.clj" "form-init9047930542164607452.clj" "form-init8955573217380653305.clj" "form-init8953910559906713772.clj" "form-init8941085507584651082.clj" "form-init883197992842046559.clj" "form-init8828398766186484998.clj" "form-init8769011899129713341.clj" "form-init8724296644520034115.clj" "form-init8693336927615206069.clj" "form-init8612242700475305562.clj" "form-init8515555109920577890.clj" "form-init8498456678155974776.clj" "form-init8478187383941360520.clj" "form-init8416747407469892449.clj" "form-init8318807163145995453.clj" "form-init8274517738672158725.clj" "form-init820971065251687453.clj" "form-init8165203772453970509.clj" "form-init814770493007276798.clj" "form-init812816825228179842.clj" "form-init8125796516176403703.clj" "form-init8035033928664707007.clj" "form-init8028417895065872987.clj" "form-init8016287775164314774.clj" "form-init8014935750509420686.clj" "form-init8005566695465636521.clj" "form-init7992749568154801706.clj" "form-init7986373333176632032.clj" "form-init7856257697251002256.clj" "form-init7836625201477886064.clj" "form-init7762010451649428422.clj" "form-init7730066467080687506.clj" "form-init7700839468881807602.clj" "form-init7651918806358643611.clj" "form-init7644219589583755549.clj" "form-init7639392492775530725.clj" "form-init7631133973677493913.clj" "form-init7503322865714113975.clj" "form-init7398302530642673775.clj" "form-init73770525896649232.clj" "form-init7335657080299678939.clj" "form-init7331936347800910285.clj" "form-init7160142902611729316.clj" "form-init7095378608999261110.clj" "form-init7031018464397603574.clj" "form-init7021645137738478493.clj" "form-init7000664364219511828.clj" "form-init6965671621231813395.clj" "form-init6953627260545361064.clj" "form-init6884507195513996274.clj" "form-init6839027938804731100.clj" "form-init6826063780025687731.clj" "form-init676493050110114256.clj" "form-init6752271363079301751.clj" "form-init6728750628435738240.clj" "form-init6713130349371521435.clj" "form-init6604657140537332343.clj" "form-init6591524623573409677.clj" "form-init6586240828743209706.clj" "form-init6570469913470234651.clj" "form-init6553159038697130988.clj" "form-init6531875043601382266.clj" "form-init6477526668460838918.clj" "form-init6452525625605390229.clj" "form-init6416756478899001561.clj" "form-init6376566794597368074.clj" "form-init6289812390960846595.clj" "form-init628523952189617626.clj" "form-init6282137782702396738.clj" "form-init6252224735732220784.clj" "form-init6249747787299219733.clj" "form-init6244979281454369550.clj" "form-init6243933700084721955.clj" "form-init6210151574220374397.clj" "form-init6081608373877607477.clj" "form-init6037786158670479239.clj" "form-init6007707780983997303.clj" "form-init5877558534393845393.clj" "form-init5800206759137140467.clj" "form-init5739620978006040477.clj" "form-init5735716543881219164.clj" "form-init5730021569825039175.clj" "form-init5576320863982015598.clj" "form-init5565496262837942546.clj" "form-init5546456956583011682.clj" "form-init5524767990871666716.clj" "form-init5491718592219586037.clj" "form-init5447290637368406871.clj" "form-init5380061053775692229.clj" "form-init5228905937373687550.clj" "form-init5197243612363369338.clj" "form-init5152966989351811068.clj" "form-init511688003350616869.clj" "form-init5099321953854859126.clj" "form-init5083918012280039485.clj" "form-init4916909201926100805.clj" "form-init4892604035055904367.clj" "form-init4864427308107155193.clj" "form-init4849718253935458434.clj" "form-init4712439200471167476.clj" "form-init4614329870680810214.clj" "form-init4613896964681121450.clj" "form-init4582414578338606434.clj" "form-init4529030671200580795.clj" "form-init4300168947772885195.clj" "form-init4299400168753169748.clj" "form-init41518273326349625.clj" "form-init4096886043352890150.clj" "form-init4066364299221672126.clj" "form-init401406975110485737.clj" "form-init3984020218908567174.clj" "form-init3970574593603841586.clj" "form-init3856151627153378539.clj" "form-init3804930228453256309.clj" "form-init3782834434324734285.clj" "form-init374921346696841603.clj" "form-init3745524449914634326.clj" "form-init3717299697213985371.clj" "form-init3574808390621667471.clj" "form-init3473035733482516133.clj" "form-init3470831014606645745.clj" "form-init3356168530655556209.clj" "form-init3350319707954900927.clj" "form-init334381002873380975.clj" "form-init3308732842167595206.clj" "form-init3232947513779166380.clj" "form-init3137660814026471709.clj" "form-init3109836215150859780.clj" "form-init3064619352126151890.clj" "form-init3023329966025976438.clj" "form-init2893988897098901821.clj" "form-init2839726635466961413.clj" "form-init2837472536410071955.clj" "form-init282886584722427017.clj" "form-init2795787220303845673.clj" "form-init2788624571126533242.clj" "form-init2773937851109121553.clj" "form-init2751318552000994224.clj" "form-init2687406883524051848.clj" "form-init2656304131586992638.clj" "form-init2631965463228206014.clj" "form-init2494011903231669335.clj" "form-init2471842326404572881.clj" "form-init2466369969778015374.clj" "form-init2463902126152299523.clj" "form-init2442548999475753632.clj" "form-init2435330399832249665.clj" "form-init2347704787083506755.clj" "form-init2320702498067950564.clj" "form-init2247030236404720743.clj" "form-init2226887083643758658.clj" "form-init2171469276141811507.clj" "form-init2081939691427815671.clj" "form-init1993672897180858785.clj" "form-init1991721652303333817.clj" "form-init1976988195262231187.clj" "form-init1975566781629821239.clj" "form-init1917181391845910123.clj" "form-init1865054584940998996.clj" "form-init1844825973980573092.clj" "form-init1840804783951403505.clj" "form-init1818647856985658205.clj" "form-init1769217124750161674.clj" "form-init176038514703508266.clj" "form-init1750695421568614226.clj" "form-init1749587340511234370.clj" "form-init1701795552025512759.clj" "form-init1678618986526861370.clj" "form-init1580695627428303271.clj" "form-init1527104880380325856.clj" "form-init148815792083971896.clj" "form-init1348079727120761344.clj" "form-init128840400259856053.clj" "form-init1247612187464857459.clj" "form-init1201963005561819687.clj" "form-init1197047417144255212.clj" "form-init112932864047447090.clj" "form-init1127763746882371641.clj" "form-init1119542376264109091.clj" "form-init106761377459417439.clj" "form-init1012841590739026800.clj" "fh1jmpcp/" "extCDFC.tmp" "ewcqdabs/" "etilqs_Zf7E96V6yCFOlna" "etilqs_yPFuNC83qz93aLz" "etilqs_wKnURiSqKmGlmsF" "etilqs_wirVSox6IfAAE8k" "etilqs_VKjyzGSwfErgPA4" "etilqs_VivM4YapHfgdBWm" "etilqs_v6w7dvqGYcLEAsn" "etilqs_ucWZw0bDv3nnK3G" "etilqs_U7GTxqakreQYolQ" "etilqs_TSAWejPNuIDEnC0" "etilqs_t3xlbaeZQHEBSnp" "etilqs_sB5kJcKUulGwOfz" "etilqs_S4rcCk93tcZkHUv" "etilqs_S4ID0O3YesmbW6G" "etilqs_rf51l2GHnHc1pAy" "etilqs_QWcS5HPbWky5Bts" "etilqs_oLCKReknHgAKYmh" "etilqs_KtleO0ggpJLUfzI" "etilqs_JckmlWJ7YDsRrap" "etilqs_jAqtfdtm4GOHWIn" "etilqs_izV5wZ0hBDNzGjy" "etilqs_If38N9479kvzf8I" "etilqs_I4exaZ6iSvjaSct" "etilqs_hzJGsiDU3GDuTR4" "etilqs_gOYKB10DCtqNjEj" "etilqs_gh4tFKJMSR9fRQB" "etilqs_FoZYelUQv4tJLYz" "etilqs_eg5ndbXmiM5vpTd" "etilqs_cZl3VYohbw6lVnG" "etilqs_COHTQVdHZAt2kRZ" "etilqs_c2WSH3I3Y9zFsgF" "etilqs_bR35rjwedJpPl1H" "etilqs_bPGbWmmwp8pIKQM" "etilqs_5i3zvDUCSpXgrFZ" "etilqs_2VqLERcvVHJN0cp" "emdqwrct/" "eclipse-cpp-luna-SR2-win32-x86_64.zip" "dswkcseb/" "dropbox_sqlite_ext.{5f3e3153-5bce-5766-8f84-3e3e7ecf0d81}.tmpekqxki.lck" "dropbox_sqlite_ext.{5f3e3153-5bce-5766-8f84-3e3e7ecf0d81}.tmpekqxki.dll" "docview1001/" "devmgr.xml" "Deployment/" "delsbcoh/" "dd_vcredist_amd64_20150204072709.log" "dd_vcredistUI38FD.txt" "dd_vcredistMSI38FD.txt" "ddu0x2rw/" "D453B317F37C4BAA871E84D45F4B09D3/" "CVRF96.tmp.cvr" "CVRC9EA.tmp.cvr" "CVRAE84.tmp.cvr" "CVRA7AB.tmp.cvr" "CVR3C1B.tmp.cvr" "CVR309B.tmp.cvr" "CVR244C.tmp.cvr" "core__init.class0.tmp/" "comtypes_cache/" "Compiler.java0.tmp/" "Clojure.java0.tmp/" "classic2.jpg" "chrome_installer.log" "cdasviny/" "c5nshq5z/" "c1sh5b3i/" "Blizzard/" "bitrock_installer_5296.log" "bitrock_installer.log" "babel-9952xNb/" "babel-8168iah/" "babel-7232MyI/" "babel-3668gBw/" "babel-3216XqV/" "babel-31096IeV/" "babel-30532Kas/" "babel-296920cs/" "babel-2844HZv/" "babel-2828nWW/" "babel-22944mhe/" "babel-18856Hld/" "babel-15572V2l/" "babel-15060r3c/" "babel-1364GFJ/" "babel-13640AbD/" "babel-13184Tqy/" "babel-12281OL/" "Atom.java0.tmp/" "Anonymous.zip" "amt3.log" "AdobeSFX.log" "AdobeDownload/" "AdobeARM_NotLocked.log" "AdobeARM.log" "acro_rd_dir/" "acrord32_sbx/" "9968.exe" "996.exe" "9596.exe" "9388.exe" "9244.exe" "9092.exe" "8664.exe" "8596.exe" "8572.exe" "8488.exe" "8472.exe" "8400.exe" "8260.exe" "7984.exe" "7904.exe" "7668.exe" "6980.exe" "6816.exe" "6376.exe" "5k0abst3/" "5876.exe" "5764.exe" "4dsuwl2s/" "4624.exe" "4588.exe" "4443wikn/" "3xpmjack/" "3fuu3tnx/" "3428.exe" "32624.exe" "31768.exe" "31420.exe" "31180.exe" "31032.exe" "30652.exe" "29872.exe" "29640.exe" "29300.exe" "29240.exe" "28164.exe" "27912.exe" "26840.exe" "26548.exe" "26384.exe" "26176.exe" "25404.exe" "25104.exe" "24988.exe" "24412.exe" "24176.exe" "23704.exe" "22540.exe" "22008.exe" "20220.exe" "20148.exe" "1ohbrcyh/" "19936.exe" "19544.exe" "1940.exe" "19148.exe" "1871KrakenDevProps.dll" "18600.exe" "17584.exe" "17288.exe" "17252.exe" "15980.exe" "15852.exe" "15032.exe" "14824.exe" "13844.exe" "12xn211t/" "12892.exe" "12840.exe" "12308.exe" "12092.exe" "11748.exe" "11740.exe" "11612.exe" "10992.exe" "10988.exe" "10856.exe" "10836.exe" "0dwtjkf2/" "05kwe2dw/" ".ssh/" ".leiningen-cmdline921208749526297713.tmp" ".leiningen-cmdline9199932359889288686.tmp" ".leiningen-cmdline9183237831773614174.tmp" ".leiningen-cmdline9057191365584884938.tmp" ".leiningen-cmdline8961589617294506028.tmp" ".leiningen-cmdline8812072666820366634.tmp" ".leiningen-cmdline8751073881949097518.tmp" ".leiningen-cmdline8750301010076154638.tmp" ".leiningen-cmdline8747759690462426393.tmp" ".leiningen-cmdline8585749035996629094.tmp" ".leiningen-cmdline8533683888008807304.tmp" ".leiningen-cmdline850525184661941405.tmp" ".leiningen-cmdline8479639601026751857.tmp" ".leiningen-cmdline8470159980890526375.tmp" ".leiningen-cmdline8435461819847459707.tmp" ".leiningen-cmdline8338497027040452546.tmp" ".leiningen-cmdline8333088492660215437.tmp" ".leiningen-cmdline8267120413760504947.tmp" ".leiningen-cmdline8235830918376614138.tmp" ".leiningen-cmdline8095787923763738835.tmp" ".leiningen-cmdline8087025239400533359.tmp" ".leiningen-cmdline8051708448750461134.tmp" ".leiningen-cmdline8016326375088810509.tmp" ".leiningen-cmdline7948006079022025544.tmp" ".leiningen-cmdline793766612014262260.tmp" ".leiningen-cmdline7926305406020225744.tmp" ".leiningen-cmdline7910612257162029962.tmp" ".leiningen-cmdline790039990304471346.tmp" ".leiningen-cmdline7857409896540934726.tmp" ".leiningen-cmdline7783706045611234989.tmp" ".leiningen-cmdline7770692101319432438.tmp" ".leiningen-cmdline7736088535476677277.tmp" ".leiningen-cmdline7733363716244381163.tmp" ".leiningen-cmdline7715313220905787654.tmp" ".leiningen-cmdline7714413077436699779.tmp" ".leiningen-cmdline7707553978055105494.tmp" ".leiningen-cmdline7590531228851164666.tmp" ".leiningen-cmdline750078334831974205.tmp" ".leiningen-cmdline7443721771012838140.tmp" ".leiningen-cmdline7394483359289181638.tmp" ".leiningen-cmdline7386443861544420341.tmp" ".leiningen-cmdline7375386167604289547.tmp" ".leiningen-cmdline7331403098110086489.tmp" ".leiningen-cmdline7279511055405889310.tmp" ".leiningen-cmdline7233221894050895317.tmp" ".leiningen-cmdline7200573499326619397.tmp" ".leiningen-cmdline7186572214686998805.tmp" ".leiningen-cmdline7169867737196871075.tmp" ".leiningen-cmdline7120677035835121286.tmp" ".leiningen-cmdline7113767388339281795.tmp" ".leiningen-cmdline7057547515114461732.tmp" ".leiningen-cmdline6992860653200141609.tmp" ".leiningen-cmdline6907603627941424239.tmp" ".leiningen-cmdline6848323551303304217.tmp" ".leiningen-cmdline6785719903161403047.tmp" ".leiningen-cmdline6722966869194899066.tmp" ".leiningen-cmdline6600025866506337810.tmp" ".leiningen-cmdline6553621729475959496.tmp" ".leiningen-cmdline6529520567855672675.tmp" ".leiningen-cmdline6489317876474479964.tmp" ".leiningen-cmdline644730814560921368.tmp" ".leiningen-cmdline643935862666422790.tmp" ".leiningen-cmdline6341724821121590165.tmp" ".leiningen-cmdline6338969431788304715.tmp" ".leiningen-cmdline6304302448888481473.tmp" ".leiningen-cmdline6252018718084396511.tmp" ".leiningen-cmdline6243225386896723421.tmp" ".leiningen-cmdline6162207956930561644.tmp" ".leiningen-cmdline6136504800266039226.tmp" ".leiningen-cmdline6129336174583938446.tmp" ".leiningen-cmdline6119716962633178010.tmp" ".leiningen-cmdline605974583795075149.tmp" ".leiningen-cmdline6048019158145609939.tmp" ".leiningen-cmdline5986156769164747489.tmp" ".leiningen-cmdline5960319864598237039.tmp" ".leiningen-cmdline5899286740260257934.tmp" ".leiningen-cmdline5875447155687683062.tmp" ".leiningen-cmdline5845842913263271316.tmp" ".leiningen-cmdline5819793406954956900.tmp" ".leiningen-cmdline5765024947573922776.tmp" ".leiningen-cmdline5738156848092468003.tmp" ".leiningen-cmdline5701478880151232211.tmp" ".leiningen-cmdline5573832203745526836.tmp" ".leiningen-cmdline55574184342866336.tmp" ".leiningen-cmdline5556334440693851663.tmp" ".leiningen-cmdline5428826342186337018.tmp" ".leiningen-cmdline537039669942780750.tmp" ".leiningen-cmdline5353109114936928365.tmp" ".leiningen-cmdline5317745695680924532.tmp" ".leiningen-cmdline5313457721809707873.tmp" ".leiningen-cmdline5285999323784341239.tmp" ".leiningen-cmdline5264192292056110720.tmp" ".leiningen-cmdline5194884894790126091.tmp" ".leiningen-cmdline5191300798872051125.tmp" ".leiningen-cmdline5003215456638188831.tmp" ".leiningen-cmdline499356043188253575.tmp" ".leiningen-cmdline4979010094309158279.tmp" ".leiningen-cmdline493774522535847613.tmp" ".leiningen-cmdline4935766211374689275.tmp" ".leiningen-cmdline4898104840406325300.tmp" ".leiningen-cmdline4729246616206777381.tmp" ".leiningen-cmdline4693794192513978790.tmp" ".leiningen-cmdline4604939366481006652.tmp" ".leiningen-cmdline4542064200636268303.tmp" ".leiningen-cmdline4490242803678951825.tmp" ".leiningen-cmdline4447019976175823832.tmp" ".leiningen-cmdline4430876907734029843.tmp" ".leiningen-cmdline4414451484980329814.tmp" ".leiningen-cmdline4400105993190258674.tmp" ".leiningen-cmdline4387780115146224399.tmp" ".leiningen-cmdline4360557308207342239.tmp" ".leiningen-cmdline4331339994431836336.tmp" ".leiningen-cmdline4318206968648528391.tmp" ".leiningen-cmdline422483234982422214.tmp" ".leiningen-cmdline4181454257120086200.tmp" ".leiningen-cmdline4169699703741262480.tmp" ".leiningen-cmdline4164039337768850135.tmp" ".leiningen-cmdline4129901148596657749.tmp" ".leiningen-cmdline3997200807110958902.tmp" ".leiningen-cmdline3995012448573665655.tmp" ".leiningen-cmdline3885464708218031130.tmp" ".leiningen-cmdline3705264433222052743.tmp" ".leiningen-cmdline3628627167249729944.tmp" ".leiningen-cmdline356231511940105597.tmp" ".leiningen-cmdline3557303609930119365.tmp" ".leiningen-cmdline3555518546505042599.tmp" ".leiningen-cmdline3525483794716440919.tmp" ".leiningen-cmdline3506207465807534643.tmp" ".leiningen-cmdline3260564147622578736.tmp" ".leiningen-cmdline3174893172046102668.tmp" ".leiningen-cmdline3135322218760769076.tmp" ".leiningen-cmdline3133355686802235611.tmp" ".leiningen-cmdline2987116631661772417.tmp" ".leiningen-cmdline2984451343212250280.tmp" ".leiningen-cmdline2924910287801715703.tmp" ".leiningen-cmdline291367290708171015.tmp" ".leiningen-cmdline2880721144720143611.tmp" ".leiningen-cmdline2833606590843429551.tmp" ".leiningen-cmdline2825360112146859095.tmp" ".leiningen-cmdline2727114426940819345.tmp" ".leiningen-cmdline2713678649916825210.tmp" ".leiningen-cmdline2658642496453522196.tmp" ".leiningen-cmdline2658286315079339982.tmp" ".leiningen-cmdline2528709502184180583.tmp" ".leiningen-cmdline2451962546636907215.tmp" ".leiningen-cmdline2439508763288570420.tmp" ".leiningen-cmdline2420263223751674216.tmp" ".leiningen-cmdline2405220646521833318.tmp" ".leiningen-cmdline236410572501245244.tmp" ".leiningen-cmdline2355938578430183477.tmp" ".leiningen-cmdline2326814121443378181.tmp" ".leiningen-cmdline2277656223963184914.tmp" ".leiningen-cmdline2226390173919174355.tmp" ".leiningen-cmdline2215698607583227525.tmp" ".leiningen-cmdline2213715135348514251.tmp" ".leiningen-cmdline2045303380016407119.tmp" ".leiningen-cmdline2024715544178502848.tmp" ".leiningen-cmdline1827656129166710547.tmp" ".leiningen-cmdline182100005856280005.tmp" ".leiningen-cmdline1765733076211132723.tmp" ".leiningen-cmdline1745001968973875542.tmp" ".leiningen-cmdline1725592469053328480.tmp" ".leiningen-cmdline1658431077425609522.tmp" ".leiningen-cmdline1652013165796884499.tmp" ".leiningen-cmdline149181912680184732.tmp" ".leiningen-cmdline1431020230168037445.tmp" ".leiningen-cmdline1362106628255729248.tmp" ".leiningen-cmdline1357548343897257088.tmp" ".leiningen-cmdline1325619290155834447.tmp" ".leiningen-cmdline1324093167147439133.tmp" ".leiningen-cmdline1182021864006571227.tmp" ".leiningen-cmdline1160017600216892079.tmp" ".leiningen-cmdline1159656586747923923.tmp" ".leiningen-cmdline1146709482573590355.tmp" ".leiningen-cmdline1116920274472752564.tmp" ".leiningen-cmdline1057143321472092934.tmp" ".leiningen-cmdline1010744790178764573.tmp" "+~JF8425746900908024719.tmp" "+~JF8028377127401230977.tmp" "+~JF7607652556803553787.tmp" "+~JF5494712526696024847.tmp" "../" "./")
+
+ ("c:/Users/Tobias/AppData/Local/Temp/Rar$DRa0.904/" (21761 38790 0 0) "solarized-emacs-master/" "../" "./")
+
+ ("c:/Users/Tobias/AppData/Local/Temp/Rar$DRa0.904/solarized-emacs-master/" (21761 38790 0 0) "README.md" "../" "./")
+
+ ("c:/development/projects/clojure/bignum-calc/src/bignum_calc/" (21760 14449 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/bignum-calc/src/" (21760 14449 0 0) "bignum_calc/" "../" "./")
+
+ ("c:/development/projects/clojure/rational-numbers-package/src/rational_numbers_package/" (21757 30077 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/rational-numbers-package/" (21752 6052 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/Program Files (x86)/Python34/Lib/" (21749 21900 0 0) "__pycache__/" "__phello__.foo.py" "__future__.py" "_weakrefset.py" "_threading_local.py" "_strptime.py" "_sitebuiltins.py" "_pyio.py" "_osx_support.py" "_markupbase.py" "_dummy_thread.py" "_compat_pickle.py" "_collections_abc.py" "_bootlocale.py" "zipfile.py" "xmlrpc/" "xml/" "xdrlib.py" "wsgiref/" "webbrowser.py" "weakref.py" "wave.py" "warnings.py" "venv/" "uuid.py" "uu.py" "urllib/" "unittest/" "types.py" "turtledemo/" "turtle.py" "tty.py" "tracemalloc.py" "traceback.py" "trace.py" "tokenize.py" "token.py" "tkinter/" "timeit.py" "threading.py" "this.py" "textwrap.py" "test/" "tempfile.py" "telnetlib.py" "tarfile.py" "tabnanny.py" "sysconfig.py" "symtable.py" "symbol.py" "sunau.py" "subprocess.py" "struct.py" "stringprep.py" "string.py" "statistics.py" "stat.py" "ssl.py" "sre_parse.py" "sre_constants.py" "sre_compile.py" "sqlite3/" "socketserver.py" "socket.py" "sndhdr.py" "smtplib.py" "smtpd.py" "site.py" "site-packages/" "shutil.py" "shlex.py" "shelve.py" "selectors.py" "sched.py" "runpy.py" "rlcompleter.py" "reprlib.py" "re.py" "random.py" "quopri.py" "queue.py" "py_compile.py" "pydoc_data/" "pydoc.py" "pyclbr.py" "pty.py" "pstats.py" "profile.py" "pprint.py" "posixpath.py" "poplib.py" "plistlib.py" "platform.py" "pkgutil.py" "pipes.py" "pickletools.py" "pickle.py" "pdb.py" "pathlib.py" "os.py" "optparse.py" "operator.py" "opcode.py" "numbers.py" "nturl2path.py" "ntpath.py" "nntplib.py" "netrc.py" "multiprocessing/" "msilib/" "modulefinder.py" "mimetypes.py" "mailcap.py" "mailbox.py" "macurl2path.py" "macpath.py" "lzma.py" "logging/" "locale.py" "linecache.py" "lib2to3/" "keyword.py" "json/" "ipaddress.py" "io.py" "inspect.py" "importlib/" "imp.py" "imghdr.py" "imaplib.py" "idlelib/" "http/" "html/" "hmac.py" "heapq.py" "hashlib.py" "gzip.py" "glob.py" "gettext.py" "getpass.py" "getopt.py" "genericpath.py" "functools.py" "ftplib.py" "fractions.py" "formatter.py" "fnmatch.py" "fileinput.py" "filecmp.py" "enum.py" "ensurepip/" "encodings/" "email/" "dummy_threading.py" "doctest.py" "distutils/" "dis.py" "difflib.py" "decimal.py" "dbm/" "datetime.py" "curses/" "ctypes/" "csv.py" "crypt.py" "cProfile.py" "copyreg.py" "copy.py" "contextlib.py" "configparser.py" "concurrent/" "compileall.py" "colorsys.py" "collections/" "codeop.py" "codecs.py" "code.py" "cmd.py" "chunk.py" "cgitb.py" "cgi.py" "calendar.py" "bz2.py" "bisect.py" "binhex.py" "bdb.py" "base64.py" "asyncore.py" "asyncio/" "asynchat.py" "ast.py" "argparse.py" "antigravity.py" "aifc.py" "abc.py" "../" "./")
+
+ ("c:/Program Files (x86)/Python34/libs/" (21749 21906 0 0) "_tkinter.lib" "_testimportmultiple.lib" "_testcapi.lib" "_testbuffer.lib" "_ssl.lib" "_sqlite3.lib" "_socket.lib" "_overlapped.lib" "_multiprocessing.lib" "_msi.lib" "_lzma.lib" "_hashlib.lib" "_elementtree.lib" "_decimal.lib" "_ctypes_test.lib" "_ctypes.lib" "_bz2.lib" "winsound.lib" "unicodedata.lib" "select.lib" "python34.lib" "python3.lib" "pyexpat.lib" "libpython34.a" "../" "./")
+
+ ("c:/Program Files (x86)/Python34/Scripts/" (21749 21917 0 0) "pip3.exe" "pip3.4.exe" "pip.exe" "easy_install.exe" "easy_install-3.4.exe" "../" "./")
+
+ ("c:/Program Files (x86)/Python34/" (21749 21916 0 0) "Tools/" "tcl/" "Scripts/" "README.txt" "pythonw.exe" "python.exe" "NEWS.txt" "LICENSE.txt" "libs/" "Lib/" "include/" "Doc/" "DLLs/" "../" "./")
+
+ ("c:/Program Files (x86)/" (21756 15462 0 0) "WindowsPowerShell/" "Windows Sidebar/" "Windows Portable Devices/" "Windows Photo Viewer/" "Windows NT/" "Windows Multimedia Platform/" "Windows Media Player/" "Windows Mail/" "Windows Defender/" "VideoLAN/" "Unigine/" "Ubisoft/" "Steam/" "Sony Mobile/" "Sony Media Go Install/" "Sony/" "Reference Assemblies/" "Razer/" "Raptr/" "Python34/" "MSBuild/" "Mozilla Firefox/" "MIT-GNU Scheme/" "Microsoft.NET/" "Microsoft Silverlight/" "Microsoft Office/" "Microsoft ASP.NET/" "Microsoft Analysis Services/" "JetBrains/" "IronPython 2.7/" "Internet Explorer/" "Intel/" "InstallShield Installation Information/" "Google/" "Git/" "emacs-24.4/" "DSPRobotics/" "desktop.ini" "Common Files/" "clisp-2.49/" "Battle.net/" "AMD AVT/" "AMD/" "Adobe/" "../" "./")
+
+ ("c:/Development/projects/clojure/calculus_evaluator/src/calculus_evaluator/" (21755 7142 0 0) "core.clj" "../" "./")
+
+ ("c:/Development/projects/clojure/calculus_evaluator/src/" (21755 7142 0 0) "calculus_evaluator/" "../" "./")
+
+ ("c:/Development/projects/clojure/calculus_evaluator/" (21755 7142 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/Development/projects/clojure/rational-numbers-package/src/" (21752 5367 0 0) "rational_numbers_package/" "../" "./")
+
+ ("c:/Development/projects/clojure/rational-numbers-package/" (21752 6052 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/Development/projects/clojure/exocrawler/src/exocrawler/" (21752 12315 0 0) "io.clj" "core.clj" "../" "./")
+
+ ("c:/Development/projects/clojure/exocrawler/src/" (21751 62712 0 0) "exocrawler/" "../" "./")
+
+ ("c:/Development/projects/clojure/exocrawler/" (21752 474 0 0) "test/" "target/" "src/" "spec.txt" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/development/projects/clojure/exocrawler/" (21752 474 0 0) "test/" "target/" "src/" "spec.txt" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/development/projects/clojure/rational-numbers-package/src/" (21752 5367 0 0) "rational_numbers_package/" "../" "./")
+
+ ("c:/Development/projects/clojure/comp/src/" (21751 27859 0 0) "cljs/" "clj/" "../" "./")
+
+ ("c:/Development/projects/clojure/comp/src/cljs/" (21751 27850 0 0) "comp/" "../" "./")
+
+ ("c:/Development/projects/clojure/comp/src/cljs/comp/" (21751 27850 0 0) "core.cljs" "../" "./")
+
+ ("c:/Development/projects/clojure/comp/resources/public/" (21751 26962 0 0) "../" "./")
+
+ ("c:/Development/projects/clojure/comp/resources/" (21751 26962 0 0) "public/" "../" "./")
+
+ ("c:/Development/projects/clojure/comp/" (21751 27231 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" ".nrepl-port" ".gitignore" "../" "./")
+
+ ("c:/Development/projects/clojure/comp/src/comp/" (21751 27212 0 0) "handler.clj" "../" "./")
+
+ ("c:/development/projects/clojure/irc-dilbertbot/" (21747 65282 0 0) "test/" "target/" "src/" "resources/" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/Users/Tobias/.emacs.d/elpa/color-theme-20080305.34/" (21751 19078 0 0) "themes/" "color-theme.elc" "color-theme.el" "color-theme-pkg.el" "color-theme-autoloads.el" "../" "./")
+
+ ("c:/Development/projects/clojure/learning_compojure/src/learning_compojure/" (21748 21989 0 0) "handler.clj" "../" "./")
+
+ ("c:/Development/projects/clojure/learning_compojure/src/" (21748 21989 0 0) "learning_compojure/" "../" "./")
+
+ ("c:/Development/projects/clojure/learning_compojure/" (21748 21989 0 0) "test/" "src/" "resources/" "README.md" "project.clj" ".gitignore" "../" "./")
+
+ ("c:/development/projects/clojure/learning_compojure/" (21748 21989 0 0) "test/" "src/" "resources/" "README.md" "project.clj" ".gitignore" "../" "./")
+
+ ("c:/Development/projects/clojure/lisp_problems/src/lisp_problems/" (21742 54356 0 0) "core.clj" "../" "./")
+
+ ("c:/Development/projects/clojure/learning/src/learning/" (21745 24858 0 0) "macros.clj" "core.clj" "../" "./")
+
+ ("c:/Development/projects/clojure/learning/" (21744 38687 0 0) "test/" "target/" "src/" "README.md" "project.clj" "LICENSE" "doc/" "dev-resources/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/Program Files (x86)/emacs-24.4/" (21700 40818 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+
+ ("c:/Program Files (x86)/emacs-24.4/bin/" (21705 54067 0 0) "zlib1.dll" "runemacs.exe" "regex2.dll" "libXpm.dll" "libtasn1-6.dll" "libnettle-4-7.dll" "libintl-8.dll" "libiconv-2.dll" "libhogweed-2-5.dll" "libgnutls-openssl-27.dll" "libgnutls-28.dll" "libgmp-10.dll" "grep-changelog" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-24.4.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+
+ ("c:/development/projects/clojure/lisp-eval/src/lisp_eval/" (21747 27496 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/lisp-eval/" (21747 28444 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/development/projects/clojure/irc-dilbertbot/src/irc-dilbertbot/" (21746 58551 0 0) "test.clj" "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/irc-dilbertbot/src/" (21746 48827 0 0) "irc-dilbertbot/" "../" "./")
+
+ ("c:/Development/projects/clojure/lisp-eval/" (21747 27185 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/Development/projects/clojure/lisp-eval/src/" (21747 27056 0 0) "lisp_eval/" "../" "./")
+
+ ("c:/Development/projects/clojure/lisp-eval/src/lisp_eval/" (21747 27496 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/lisp-eval/src/" (21747 27056 0 0) "lisp_eval/" "../" "./")
+
+ ("c:/development/projects/clojure/tag-gen/src/tag_gen/" (21747 24126 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/tag-gen/src/" (21747 24126 0 0) "tag_gen/" "../" "./")
+
+ ("c:/development/projects/clojure/tag-gen/" (21747 24126 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/development/projects/clojure/ircclient/src/ircclient/" (21746 6755 0 0) "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/ircclient/src/" (21739 17449 0 0) "ircclient/" "../" "./")
+
+ ("c:/development/projects/clojure/ircclient/" (21739 19576 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/development/projects/clojure/learning/src/learning/" (21745 24858 0 0) "macros.clj" "core.clj" "../" "./")
+
+ ("c:/development/projects/clojure/learning/" (21744 38687 0 0) "test/" "target/" "src/" "README.md" "project.clj" "LICENSE" "doc/" "dev-resources/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/pallet/stevedore/" (21347 36814 0 0) "common.clj" "batch.clj" "bash.clj" "../" "./")
+
+ ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/pallet/" (21347 36814 0 0) "stevedore.clj" "stevedore/" "script.clj" "script/" "../" "./")
+
+ ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/" (21347 36814 0 0) "pallet/" "../" "./")
+
+ ("c:/development/projects/clojure/Third Party Software/script-DSL-master/" (21744 1507 0 0) "test/" "target/" "src/" "resources/" "ReleaseNotes.md" "reference.org" "README.md" "project.clj" "profiles.clj" "dev-resources/" ".travis.yml" ".gitignore" "../" "./")
+
+ ("c:/development/projects/clojure/Third Party Software/" (21743 39257 0 0) "script-DSL-master/" "LightTable-master/" "blueshift-master/" "bifrost-master/" "4clojure-develop/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
