@@ -8,10 +8,6 @@
 ;; Enable kibit support
 (add-hook 'clojure-mode-hook 'flycheck-mode)
 
-;; 80 column ruler.
-(require 'column-marker)
-(add-hook 'clojure-mode-hook (lambda () (interactive) (column-marker-1 80)))
-
 ;; A little more syntax highlighting
 (require 'clojure-mode-extra-font-locking)
 

@@ -2,6 +2,8 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("c:/Users/Tobias/Dropbox/prog/" . "haskell/")
+ ("c:/Users/Tobias/Dropbox/" . "prog/")
  ("c:/Users/Tobias/.emacs.d/elpa/" . "cygwin-mount-20131111.2146/")
  ("c:/development/projects/haskell/" . "haskellsicp/")
  ("c:/development/projects/sicp/src/" . "sicp/")
@@ -25,7 +27,7 @@
  ("c:/Development/projects/clojure/comp/resources/" . "public/")
  ("c:/Development/projects/clojure/comp/src/" . "comp/")
  ("c:/Development/projects/clojure/comp/" . "resources/")
- ("c:/Users/Tobias/.emacs.d/" . "elpa/")
+ ("c:/Users/Tobias/.emacs.d/" . "customizations/")
  ("c:/development/projects/clojure/sicp/src/" . "sicp/")
  ("c:/development/projects/clojure/sicp/" . "src/")
  ("c:/Development/projects/clojure/learning_compojure/src/" . "learning_compojure/")
@@ -53,7 +55,7 @@
  ("c:/Development/projects/clojure/lisp_problems/" . "src/")
  ("c:/development/projects/clojure/lisp_problems/src/" . "lisp_problems/")
  ("c:/development/projects/clojure/lisp_problems/" . "src/")
- ("c:/Users/Tobias/" . ".emacs.d/")
+ ("c:/Users/Tobias/" . "Dropbox/")
  ("c:/Users/" . "Tobias/")
  ("c:/Development/projects/clojure/clocrypt/src/" . "clocrypt/")
  ("c:/Development/projects/clojure/clocrypt/" . "src/")
@@ -61,23 +63,25 @@
  ("c:/Development/projects/clojure/learning/" . "src/")
  ("c:/Development/projects/clojure/" . "rational-numbers-package/")
  ("c:/Development/projects/" . "c/")
- ("c:/Development/" . "projects/")
- ("c:/" . "Development/")
+ ("c:/Development/" . "c/")
+ ("c:/" . "Users/")
  ("c:/development/projects/clojure/learning/src/" . "learning/")
  ("c:/development/projects/clojure/learning/" . "src/")
  ("c:/development/projects/clojure/" . "sicp/")
- ("c:/development/projects/" . "c/")
+ ("c:/development/projects/" . "haskell/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "c:/Users/Tobias/Dropbox/prog/haskell/"
+ "c:/Users/Tobias/.emacs.d/customizations/"
+ "c:/Development/c/"
+ "c:/Development/projects/haskell/haskellsicp/"
+ "c:/development/projects/haskell/haskellsicp/"
  "c:/Development/projects/c/"
  "c:/Users/Tobias/.emacs.d/"
  "c:/Users/Tobias/.emacs.d/elpa/cygwin-mount-20131111.2146/"
- "c:/Users/Tobias/.emacs.d/customizations/"
  "c:/development/projects/c/"
- "c:/development/projects/haskell/haskellsicp/"
- "c:/Development/projects/haskell/haskellsicp/"
  "c:/Users/Tobias/.emacs.d/elpa/solarized-theme-20150308.128/"
  "c:/Development/projects/clojure/sicp/src/sicp/"
  "c:/development/projects/clojure/sicp/src/sicp/"
@@ -120,37 +124,49 @@
 
 ;; ----- ido-work-file-list -----
 (
- "main.c"
- "init.el"
- "cygwin-mount.el"
+ "hangman.hs"
+ "HangmanASCII.hs"
+ "shell-integration.el"
  "setup-cygwin.el"
+ "main.c"
+ "prime.hs"
+ "deftypes.hs"
  "haskell99.hs"
- "haskellsicp.cabal"
- "99-haskelproblems.hs"
- "Setup.hs"
- "c-setup.el"
  "setup-clojure.el"
+ "navigation.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("c:/Users/Tobias/Dropbox/prog/haskell/" (21770 32455 0 0) "prime.hs" "haskell99.hs" "HangmanASCII.hs" "hangman.hs" "enable1.txt" "desktop.ini" "deftypes.hs" ".dropbox" "../" "./")
+
+ ("c:/Users/Tobias/.emacs.d/" (21770 32310 0 0) "themes/" "places" "init.el" "ido.last" "eshell/" "elpa/" "ede-projects.el" "ecb/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("c:/Users/Tobias/.emacs.d/customizations/" (21770 32006 0 0) "ui.el" "shell-integration.el" "setup-java.el" "setup-haskell.el" "setup-cygwin.el" "setup-clojure.el" "setup-c.el" "navigation.el" "misc.el" "editing.el" "../" "./")
+
+ ("c:/Development/c/" (21769 8217 0 0) "NUL" "makefile" "main.c" "hellomake.exe" "../" "./")
+
+ ("c:/Development/" (21769 47739 0 0) "java/" "haskell/" "gocode/" "clojure/" "c/" "../" "./")
+
+ ("c:/Users/Tobias/Dropbox/" (21770 26387 0 0) "school/" "prog/" "pictures/" "personal_notes/" "desktop.ini" "books/" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("c:/Users/Tobias/" (21769 54938 0 0) "_viminfo" "Videos/" "Templates/" "structured-haskell-mode/" "Start Menu/" "Snapshots/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "gsview64.ini" "Favorites/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Cookies/" "Contacts/" "Atto-URLCrawler/" "Application Data/" "AppData/" ".yjp/" ".swt/" ".ssh/" ".p2/" ".m2/" ".lein/" ".IdeaIC14/" ".history" ".gitconfig" ".emacs.d/" ".eclipse/" ".clion10/" ".bash_history" "../" "./")
+
+ ("c:/Users/Tobias/Dropbox/prog/" (21769 47428 0 0) "haskell/" "../" "./")
+
+ ("c:/development/" (21769 47739 0 0) "java/" "haskell/" "gocode/" "clojure/" "c/" "../" "./")
+
+ ("c:/Development/projects/haskell/haskellsicp/" (21769 39023 0 0) "haskell99.hs" "deftypes.hs" "../" "./")
+
+ ("c:/development/projects/haskell/haskellsicp/" (21769 37622 0 0) "haskell99.hs" "../" "./")
+
  ("c:/Development/projects/c/" (21767 53038 0 0) "makefile.1" "main.c" "../" "./")
-
- ("c:/Users/Tobias/.emacs.d/" (21769 7558 0 0) "themes/" "places" "init.el.before_ecb_2.40__1" "init.el.before_ecb_2.40" "init.el" "ido.last" "elpa/" "ede-projects.el" "ecb/" "customizations/" "cider-history" "backups/" "auto-save-list/" "ac-comphist.dat" ".smex-items" ".recentf" ".gitignore" ".gitattributes" ".git/" "../" "./")
-
- ("c:/Users/Tobias/.emacs.d/customizations/" (21769 7637 0 0) "ui.el" "shell-integration.el" "setup-erc.el" "setup-cygwin.el" "setup-clojure.el" "pretty-lambda.el" "navigation.el" "misc.el" "java-setup.el" "haskell-setup.el" "editing.el" "column-marker.el" "c-setup.el" "../" "./")
 
  ("c:/Users/Tobias/.emacs.d/elpa/cygwin-mount-20131111.2146/" (21769 7344 0 0) "cygwin-mount.elc" "cygwin-mount.el" "cygwin-mount-pkg.elc" "cygwin-mount-pkg.el" "cygwin-mount-autoloads.el" "../" "./")
 
  ("c:/Users/Tobias/.emacs.d/elpa/" (21769 7275 0 0) "zen-and-art-theme-20120622.737/" "yasnippet-20150212.240/" "tagedit-20140618.521/" "spacegray-theme-20131230.1127/" "soothe-theme-20141027.741/" "solarized-theme-20150308.128/" "smex-20140425.1314/" "setup-cygwin-21.0/" "scion-20130315.555/" "sage-shell-mode-20150309.554/" "s-20140714.707/" "rainbow-mode-0.10/" "rainbow-delimiters-20140713.1131/" "queue-0.1.1/" "pyvenv-20150218.2323/" "popup-20150116.1223/" "pkg-info-20140610.630/" "paredit-20140128.1248/" "nlinum-1.6/" "monokai-theme-20150112.442/" "mode-compile-2.29/" "magit-20140720.358/" "leuven-theme-20150116.442/" "let-alist-1.0.3/" "inf-clojure-20150118.1153/" "ido-ubiquitous-20140526.1306/" "hindent-20150120.615/" "highlight-indentation-20150307.208/" "helm-sage-20141130.549/" "helm-20150311.110/" "haskell-mode-readme.txt" "haskell-mode-20150311.1304/" "grandshell-theme-20140415.2225/" "gnupg/" "git-rebase-mode-20140605.520/" "git-commit-mode-20140605.520/" "ghc-readme.txt" "ghc-1.10.2/" "flycheck-google-cpplint-20140806.925/" "flycheck-clojure-20150116.234/" "flycheck-20150207.329/" "flatland-black-theme-20141115.2230/" "find-file-in-project-20141214.1952/" "exec-path-from-shell-20141212.846/" "erc-nick-notify-0.2.1/" "erc-colorize-readme.txt" "erc-colorize-20150113.1149/" "epl-20140620.218/" "emms-readme.txt" "emacs-cl-0.5/" "elpy-1.7.1/" "ediprolog-1.0/" "direx-20141214.2059/" "deferred-20150309.2052/" "dash-20140717.547/" "dark-krystal-theme-20141115.2301/" "cygwin-mount-20131111.2146/" "cyberpunk-theme-20140630.1800/" "company-20150310.950/" "color-theme-heroku-1.0.0/" "color-theme-20080305.34/" "clojure-snippets-20140831.912/" "clojure-mode-readme.txt" "clojure-mode-extra-font-locking-readme.txt" "clojure-mode-extra-font-locking-20150110.505/" "clojure-mode-20150113.1048/" "clojure-env-0.0.4/" "clojure-cheatsheet-readme.txt" "cider-spy-readme.txt" "cider-readme.txt" "cider-profile-readme.txt" "cider-decompile-readme.txt" "cider-20150308.900/" "cherry-blossom-theme-20140930.1722/" "boron-theme-20150117.952/" "bliss-theme-20141115.2301/" "autopair-20140825.427/" "auto-complete-20150201.150/" "async-20150203.2127/" "assemblage-theme-20130715.621/" "archives/" "ac-cider-readme.txt" "ac-cider-20150306.254/" "../" "./")
 
- ("c:/Users/Tobias/" (21767 53355 0 0) "_viminfo" "Videos/" "Templates/" "Start Menu/" "Snapshots/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "gsview64.ini" "Favorites/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Cookies/" "Contacts/" "Atto-URLCrawler/" "Application Data/" "AppData/" ".yjp/" ".swt/" ".ssh/" ".p2/" ".m2/" ".lein/" ".IdeaIC14/" ".history" ".gitconfig" ".emacs.d/" ".eclipse/" ".clion10/" ".bash_history" "../" "./")
-
  ("c:/development/projects/c/" (21767 53038 0 0) "makefile.1" "main.c" "../" "./")
-
- ("c:/development/projects/haskell/haskellsicp/" (21768 38261 0 0) "haskell99.hs" "../" "./")
-
- ("c:/Development/projects/haskell/haskellsicp/" (21768 24625 0 0) "haskell99.hs" "../" "./")
 
  ("c:/development/projects/" (21767 52698 0 0) "java/" "haskell/" "clojure/" "c/" "../" "./")
 
@@ -186,8 +202,6 @@
 
  ("c:/Users/Tobias/Desktop/" (21763 7859 0 0) "Vuze Leap.lnk" "Photoshop.lnk" "paredit-refcard.pdf" "paip.pdf" "Music/" "Matteprov/" "liteide/" "learninghaskell.hs" "Java Editor.lnk" "GoLang Editor.lnk" "GitHub.appref-ms" "emacs.lnk" "desktop.ini" "Command Prompt.lnk" "Battle.net.lnk" "Adobe Illustrator CC (64 Bit).lnk" "../" "./")
 
- ("c:/development/" (21760 33274 0 0) "projects/" "gocode/" "../" "./")
-
  ("c:/Development/projects/clojure/word-processor/src/word_processor/" (21761 50340 0 0) "core.clj" "../" "./")
 
  ("c:/development/projects/clojure/word-processor/" (21761 49505 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
@@ -203,8 +217,6 @@
  ("c:/development/projects/clojure/bignum-calc/" (21760 14557 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
 
  ("c:/Development/projects/clojure/rational-numbers-package/src/rational_numbers_package/" (21759 16626 0 0) "core.clj" "../" "./")
-
- ("c:/Development/" (21760 33274 0 0) "projects/" "gocode/" "../" "./")
 
  ("c:/Users/" (21695 25157 0 0) "Tobias/" "Public/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
 
@@ -325,14 +337,6 @@
  ("c:/development/projects/clojure/learning/" (21744 38687 0 0) "test/" "target/" "src/" "README.md" "project.clj" "LICENSE" "doc/" "dev-resources/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
 
  ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/pallet/stevedore/" (21347 36814 0 0) "common.clj" "batch.clj" "bash.clj" "../" "./")
-
- ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/pallet/" (21347 36814 0 0) "stevedore.clj" "stevedore/" "script.clj" "script/" "../" "./")
-
- ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/" (21347 36814 0 0) "pallet/" "../" "./")
-
- ("c:/development/projects/clojure/Third Party Software/script-DSL-master/" (21744 1507 0 0) "test/" "target/" "src/" "resources/" "ReleaseNotes.md" "reference.org" "README.md" "project.clj" "profiles.clj" "dev-resources/" ".travis.yml" ".gitignore" "../" "./")
-
- ("c:/development/projects/clojure/Third Party Software/" (21743 39257 0 0) "script-DSL-master/" "LightTable-master/" "blueshift-master/" "bifrost-master/" "4clojure-develop/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

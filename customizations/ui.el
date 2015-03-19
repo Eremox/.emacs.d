@@ -57,3 +57,5 @@
 (setq ecb-tip-of-the-day nil)
 (ecb-activate)
 
+;; column marker
+(add-hook 'after-change-major-mode-hook 'fci-mode)

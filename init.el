@@ -20,36 +20,9 @@
 (global-flycheck-mode)
 
 
-;; General Auto-Complete
-;(require 'auto-complete-config)
-;(setq ac-delay 0.0)
-;(setq ac-quick-help-delay 0.5)
-;(ac-config-default)
-
-
 ;;;;;;;;;;;;;;;;;;;
 ;; Customization ;;
 ;;;;;;;;;;;;;;;;;;;
-
-;; Add a directory to our load path so that when you `load` things
-;; below, Emacs knows where to look for the corresponding file.
-(add-to-list 'load-path "~/.emacs.d/customizations")
-
-;; Editor-specific
-(load "shell-integration.el")
-(load "navigation.el")
-(load "ui.el")
-(load "editing.el")
-(load "misc.el")
-(load "setup-cygwin.el")
-;; Langauage-specific
-(load "setup-clojure.el")
-(load "haskell-setup.el")
-(load "c-setup.el")
-;; Other-
-(load "setup-erc.el")
-(load "pretty-lambda.el")
-
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -67,9 +40,6 @@
  '(cua-normal-cursor-color "#839496")
  '(cua-overwrite-cursor-color "#b58900")
  '(cua-read-only-cursor-color "#859900")
- '(custom-safe-themes
-   (quote
-    ("8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" "4ff23437b3166eeb7ca9fa026b2b030bba7c0dfdc1ff94df14dfb1bcaee56c78" "868f73b5cf78e72ca2402e1d48675e49cc9a9619c5544af7bf216515d22b58e7" default)))
  '(ecb-options-version "2.40")
  '(ecb-source-path (quote (("c:" "c:"))))
  '(fci-rule-character-color "#202020")
@@ -136,12 +106,29 @@
      (340 . "#2790C3")
      (360 . "#66D9EF"))))
  '(vc-annotate-very-old-color nil t)
- '(weechat-color-list
-   (unspecified "#272822" "#49483E" "#A20C41" "#F92672" "#67930F" "#A6E22E" "#968B26" "#E6DB74" "#21889B" "#66D9EF" "#A41F99" "#FD5FF0" "#349B8D" "#A1EFE4" "#F8F8F2" "#F8F8F0"))
- '(when (not (facep (aref ansi-term-color-vector 0)))))
+'(when (not (facep (aref ansi-term-color-vector 0)))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+
+;; Add a directory to our load path so that when you `load` things
+;; below, Emacs knows where to look for the corresponding file.
+(add-to-list 'load-path "~/.emacs.d/customizations")
+
+;; Editor-specific
+(load "shell-integration.el")
+(load "navigation.el")
+(load "ui.el")
+(load "editing.el")
+(load "misc.el")
+;; Langauage-specific
+(load "setup-clojure.el")
+(load "setup-haskell.el")
+;(load "setup-java.el")
+(load "setup-c.el")
+
+;;; init.el ends here

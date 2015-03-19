@@ -2,21 +2,21 @@
 ;; ----- smex-history -----
 (
  shell
- cygwin-shell
  eval-buffer
+ reveal-mode
+ clear-rectangle
+ eshell
  package-install
- package-refresh-contents
- haskell-indent-mode
- haskell-indentation-mode
+ cider-jack-in
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 93)
+ (package-install . 96)
  (cider-jack-in . 94)
  (package-list-packages . 5)
- (shell . 37)
- (package-refresh-contents . 20)
+ (shell . 45)
+ (package-refresh-contents . 21)
  (list-packages . 19)
  (customize-variable . 1)
  (cider . 2)
@@ -50,7 +50,7 @@
  (haskell-cabal-mode . 1)
  (dired . 1)
  (erc . 23)
- (eval-buffer . 110)
+ (eval-buffer . 114)
  (haskell-customize . 1)
  (package-menu-refresh . 2)
  (auto-complete . 1)
@@ -81,15 +81,19 @@
  (ecb-activate . 1)
  (ecb-update-directories-buffer . 1)
  (ghci-script-mode . 1)
- (ghc-core-mode . 1)
+ (ghc-core-mode . 3)
  (kill-buffer . 1)
- (eshell . 1)
+ (eshell . 4)
  (ansi-term . 2)
  (term . 1)
  (semantic-gcc-setup . 1)
- (cygwin-shell . 8)
+ (cygwin-shell . 16)
  (haskell-simple-indent-mode . 2)
  (haskell-indentation-mode . 2)
  (autopair-mode . 2)
  (haskell-indent-mode . 2)
+ (fci-mode . 1)
+ (haskell-mode . 1)
+ (clear-rectangle . 1)
+ (reveal-mode . 1)
 )

@@ -12,4 +12,4 @@
 (setq inhibit-startup-message t)
 
 ;; Set the default startup directory
-(cd "C:/development/projects/")
+(cd "C:/development/")
