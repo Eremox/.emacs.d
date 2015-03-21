@@ -20,22 +20,8 @@
 (add-to-list 'load-path "~/.emacs.d/themes")
 (load-theme 'solarized-dark t)
 
-;; Set font dependent on OS.
-(cond
- ((string-equal system-type "windows-nt") ; Microsoft Windows
-  (when (member "DejaVu Sans Mono" (font-family-list))
-    (add-to-list 'initial-frame-alist '(font . "DejaVu Sans Mono-10"))
-    (add-to-list 'default-frame-alist '(font . "DejaVu Sans Mono-10")))
-  )
- ((string-equal system-type "darwin")   ; Mac OS X
-  (when (member "DejaVu Sans Mono" (font-family-list))
-    (add-to-list 'initial-frame-alist '(font . "DejaVu Sans Mono-10"))
-    (add-to-list 'default-frame-alist '(font . "DejaVu Sans Mono-10")))
-  )
- ((string-equal system-type "gnu/linux") ; linux
-  (when (member "DejaVu Sans Mono" (font-family-list))
-    (add-to-list 'initial-frame-alist '(font . "DejaVu Sans Mono-10"))
-    (add-to-list 'default-frame-alist '(font . "DejaVu Sans Mono-10")))))
+(set-frame-font
+    "-*-DejaVu Sans Mono-normal-normal-normal-*-14-*-*-m-0-iso10646-1")
 
 ;; Standard settings. Do not touch"
 (setq x-select-enable-clipboard t
@@ -54,8 +40,14 @@
 ;; ECB setup
 (add-to-list 'load-path "~/.emacs.d/ecb/")
 (require 'ecb)
-(setq ecb-tip-of-the-day nil)
+(setq ecb-tip-of-the-day nil) 
+(setq ecb-windows-width 0.2)
+
 (ecb-activate)
+
 
 ;; column marker
 (add-hook 'after-change-major-mode-hook 'fci-mode)
+
+;;; ui.el ends here
+

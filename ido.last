@@ -2,6 +2,9 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("c:/Users/Tobias/documents/emacs/" . "haskell/")
+ ("c:/Users/Tobias/Dropbox/prog/haskell/THaskell/" . "Hangman/")
+ ("c:/Users/Tobias/Dropbox/prog/haskell/" . "THaskell/")
  ("c:/Users/Tobias/Dropbox/prog/" . "haskell/")
  ("c:/Users/Tobias/Dropbox/" . "prog/")
  ("c:/Users/Tobias/.emacs.d/elpa/" . "cygwin-mount-20131111.2146/")
@@ -40,7 +43,7 @@
  ("c:/development/projects/clojure/tag-gen/" . "src/")
  ("c:/development/projects/clojure/ircclient/src/" . "ircclient/")
  ("c:/development/projects/clojure/ircclient/" . "src/")
- ("c:/development/" . "projects/")
+ ("c:/development/" . "haskell/")
  ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/pallet/" . "stevedore/")
  ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/" . "pallet/")
  ("c:/development/projects/clojure/Third Party Software/script-DSL-master/" . "src/")
@@ -55,7 +58,7 @@
  ("c:/Development/projects/clojure/lisp_problems/" . "src/")
  ("c:/development/projects/clojure/lisp_problems/src/" . "lisp_problems/")
  ("c:/development/projects/clojure/lisp_problems/" . "src/")
- ("c:/Users/Tobias/" . "Dropbox/")
+ ("c:/Users/Tobias/" . ".emacs.d/")
  ("c:/Users/" . "Tobias/")
  ("c:/Development/projects/clojure/clocrypt/src/" . "clocrypt/")
  ("c:/Development/projects/clojure/clocrypt/" . "src/")
@@ -63,7 +66,7 @@
  ("c:/Development/projects/clojure/learning/" . "src/")
  ("c:/Development/projects/clojure/" . "rational-numbers-package/")
  ("c:/Development/projects/" . "c/")
- ("c:/Development/" . "c/")
+ ("c:/Development/" . "haskell/")
  ("c:/" . "Users/")
  ("c:/development/projects/clojure/learning/src/" . "learning/")
  ("c:/development/projects/clojure/learning/" . "src/")
@@ -73,8 +76,12 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "c:/Users/Tobias/Dropbox/prog/haskell/"
+ "c:/Users/Tobias/documents/emacs/haskell/"
  "c:/Users/Tobias/.emacs.d/customizations/"
+ "c:/development/haskell/"
+ "c:/Development/haskell/"
+ "c:/Users/Tobias/Dropbox/prog/haskell/THaskell/Hangman/"
+ "c:/Users/Tobias/Dropbox/prog/haskell/"
  "c:/Development/c/"
  "c:/Development/projects/haskell/haskellsicp/"
  "c:/development/projects/haskell/haskellsicp/"
@@ -119,11 +126,13 @@
  "c:/development/projects/clojure/Third Party Software/bifrost-master/src/uswitch/bifrost/"
  "c:/Development/projects/clojure/lisp_problems/"
  "c:/Development/projects/clojure/clocrypt/src/clocrypt/"
- "c:/development/projects/clojure/clocrypt/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "Evaluator.hs"
+ "editing.el"
+ "navigation.el"
  "hangman.hs"
  "HangmanASCII.hs"
  "shell-integration.el"
@@ -131,26 +140,35 @@
  "main.c"
  "prime.hs"
  "deftypes.hs"
- "haskell99.hs"
- "setup-clojure.el"
- "navigation.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/Tobias/Dropbox/prog/haskell/" (21770 32455 0 0) "prime.hs" "haskell99.hs" "HangmanASCII.hs" "hangman.hs" "enable1.txt" "desktop.ini" "deftypes.hs" ".dropbox" "../" "./")
+ ("c:/Users/Tobias/.emacs.d/customizations/" (21773 6260 0 0) "ui.el" "shell-integration.el" "setup-java.el" "setup-haskell.el" "setup-cygwin.el" "setup-clojure.el" "setup-c.el" "navigation.el" "misc.el" "editing.el" "../" "./")
 
- ("c:/Users/Tobias/.emacs.d/" (21770 32310 0 0) "themes/" "places" "init.el" "ido.last" "eshell/" "elpa/" "ede-projects.el" "ecb/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".gitattributes" ".git/" "../" "./")
+ ("c:/Users/Tobias/documents/emacs/haskell/" (21772 35434 0 0) "Evaluator.hs" "../" "./")
 
- ("c:/Users/Tobias/.emacs.d/customizations/" (21770 32006 0 0) "ui.el" "shell-integration.el" "setup-java.el" "setup-haskell.el" "setup-cygwin.el" "setup-clojure.el" "setup-c.el" "navigation.el" "misc.el" "editing.el" "../" "./")
+ ("c:/Users/Tobias/documents/emacs/" (21773 3569 0 0) "projects/" "java/" "haskell/" "github-repos/" "competitive_programming/" "clojure/" "c/" "../" "./")
 
- ("c:/Development/c/" (21769 8217 0 0) "NUL" "makefile" "main.c" "hellomake.exe" "../" "./")
+ ("c:/Users/Tobias/.emacs.d/" (21772 38882 0 0) "themes/" "places" "init.el" "ido.last" "eshell/" "elpa/" "ede-projects.el" "ecb/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("c:/development/haskell/" (21771 48560 0 0) "Evaluator.hs" "../" "./")
+
+ ("c:/Development/haskell/" (21769 47686 0 0) "../" "./")
+
+ ("c:/Development/c/" (21770 27756 0 0) "NUL" "makefile" "main.c" "hellomake.exe" "../" "./")
+
+ ("c:/Users/Tobias/Dropbox/prog/haskell/THaskell/" (21771 16004 0 0) "prime.hs" "haskell99.hs" "Hangman/" "deftypes.hs" "BinarySearchTree.hs" "../" "./")
+
+ ("c:/Users/Tobias/Dropbox/" (21771 48148 0 0) "school/" "prog/" "pictures/" "personal_notes/" "desktop.ini" "books/" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("c:/Users/Tobias/Dropbox/prog/haskell/THaskell/Hangman/" (21771 2084 0 0) "HangmanASCII.o" "HangmanASCII.hs" "HangmanASCII.hi" "hangman.hs" "enable1.txt" "../" "./")
+
+ ("c:/Users/Tobias/Dropbox/prog/haskell/" (21770 54504 0 0) "THaskell/" "desktop.ini" ".dropbox" "../" "./")
+
+ ("c:/Users/Tobias/" (21770 32726 0 0) "_viminfo" "Videos/" "Templates/" "structured-haskell-mode/" "Start Menu/" "Snapshots/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "gsview64.ini" "Favorites/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Cookies/" "Contacts/" "Atto-URLCrawler/" "Application Data/" "AppData/" ".yjp/" ".swt/" ".ssh/" ".p2/" ".m2/" ".lein/" ".IdeaIC14/" ".history" ".gitconfig" ".emacs.d/" ".clion10/" ".bash_history" "../" "./")
 
  ("c:/Development/" (21769 47739 0 0) "java/" "haskell/" "gocode/" "clojure/" "c/" "../" "./")
-
- ("c:/Users/Tobias/Dropbox/" (21770 26387 0 0) "school/" "prog/" "pictures/" "personal_notes/" "desktop.ini" "books/" ".dropbox.cache/" ".dropbox" "../" "./")
-
- ("c:/Users/Tobias/" (21769 54938 0 0) "_viminfo" "Videos/" "Templates/" "structured-haskell-mode/" "Start Menu/" "Snapshots/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "gsview64.ini" "Favorites/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Cookies/" "Contacts/" "Atto-URLCrawler/" "Application Data/" "AppData/" ".yjp/" ".swt/" ".ssh/" ".p2/" ".m2/" ".lein/" ".IdeaIC14/" ".history" ".gitconfig" ".emacs.d/" ".eclipse/" ".clion10/" ".bash_history" "../" "./")
 
  ("c:/Users/Tobias/Dropbox/prog/" (21769 47428 0 0) "haskell/" "../" "./")
 
@@ -325,18 +343,6 @@
  ("c:/development/projects/clojure/tag-gen/src/" (21747 24126 0 0) "tag_gen/" "../" "./")
 
  ("c:/development/projects/clojure/tag-gen/" (21747 24126 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".hgignore" ".gitignore" "../" "./")
-
- ("c:/development/projects/clojure/ircclient/src/ircclient/" (21746 6755 0 0) "core.clj" "../" "./")
-
- ("c:/development/projects/clojure/ircclient/src/" (21739 17449 0 0) "ircclient/" "../" "./")
-
- ("c:/development/projects/clojure/ircclient/" (21739 19576 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
-
- ("c:/development/projects/clojure/learning/src/learning/" (21745 24858 0 0) "macros.clj" "core.clj" "../" "./")
-
- ("c:/development/projects/clojure/learning/" (21744 38687 0 0) "test/" "target/" "src/" "README.md" "project.clj" "LICENSE" "doc/" "dev-resources/" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
-
- ("c:/development/projects/clojure/Third Party Software/script-DSL-master/src/pallet/stevedore/" (21347 36814 0 0) "common.clj" "batch.clj" "bash.clj" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

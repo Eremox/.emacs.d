@@ -2,12 +2,12 @@
 ;; ----- smex-history -----
 (
  shell
+ color-theme-select
+ customize-themes
  eval-buffer
  reveal-mode
  clear-rectangle
  eshell
- package-install
- cider-jack-in
 )
 
 ;; ----- smex-data -----
@@ -15,7 +15,7 @@
  (package-install . 96)
  (cider-jack-in . 94)
  (package-list-packages . 5)
- (shell . 45)
+ (shell . 51)
  (package-refresh-contents . 21)
  (list-packages . 19)
  (customize-variable . 1)
@@ -26,11 +26,11 @@
  (drag-stuff-mode . 1)
  (cider-mode . 3)
  (cider-repl-mode . 1)
- (color-theme-select . 7)
+ (color-theme-select . 9)
  (cider-popup-buffer-quit . 1)
  (cider-refresh . 2)
  (cider-restart . 5)
- (customize-themes . 8)
+ (customize-themes . 9)
  (color-theme-dark-erc . 1)
  (global-prettify-symbols-mode . 1)
  (pretty-symbols-mode . 1)
