@@ -3,7 +3,7 @@
 ;;;;
 
 ;; Cabal load path
-(let ((my-cabal-path (expand-file-name "C:/Users/Tobias/AppData/Roaming/cabal/bin")))
+(let ((my-cabal-path (expand-file-name "~/AppData/Roaming/cabal/bin")))
   (setenv "PATH" (concat my-cabal-path ";" (getenv "PATH")))
   (add-to-list 'exec-path my-cabal-path))
 
@@ -13,14 +13,17 @@
 (add-hook 'haskell-mode-hook (lambda () (ghc-init)))
 
 ;; Indentation
-(add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
-;(add-hook 'haskell-mode-hook 'turn-on-hi2)
+;(add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
+(require 'hi2)
+(add-hook 'haskell-mode-hook 'turn-on-hi2)
+
+;; stylish-haskell , integrated in haskell-mode but downloaded separately.
+(setq haskell-stylish-on-save t)
+
+;; flycheck for haskell
+(eval-after-load 'flycheck '(require 'flycheck-hdevtools))
 
 ;; Custom Interactive Commands
-(custom-set-variables
-  '(haskell-process-suggest-remove-import-lines t)
-  '(haskell-process-auto-import-loaded-modules t)
-  '(haskell-process-log t))
 (eval-after-load 'haskell-mode '(progn
   (define-key haskell-mode-map (kbd "C-c C-l") 'haskell-process-load-or-reload)
   (define-key haskell-mode-map (kbd "C-c C-z") 'haskell-interactive-switch)
@@ -35,3 +38,6 @@
   (define-key haskell-cabal-mode-map (kbd "C-c C-c") 'haskell-process-cabal-build)
   (define-key haskell-cabal-mode-map (kbd "C-c c") 'haskell-process-cabal)))
 
+;;;;
+;;; setup-haskell.el ends here
+;;;;

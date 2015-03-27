@@ -1,5 +1,4 @@
-;; Sets up exec-path-from shell
-;; https://github.com/purcell/exec-path-from-shell
+(setq default-directory "~/documents/emacs")
 
 (let* ((cygwin-root "c:/cygwin64")
          (cygwin-bin (concat cygwin-root "/bin")))
@@ -20,4 +19,8 @@
     
       ;; This removes unsightly ^M characters that would otherwise
       ;; appear in the output of java applications.
-      (add-hook 'comint-output-filter-functions 'comint-strip-ctrl-m)))
+      (add-hook 'comint-output-filter-functions 'comint-strip-ctrl-m)
+
+	  ;; tells emacs cygwin is returning DOs end-of-line bytes
+	  (add-to-list 'process-coding-system-alist
+				   '("bash" . (undecided-dos . undecided-unix)))))

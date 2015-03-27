@@ -27,25 +27,14 @@
 (add-hook 'clojure-mode-hook #'inf-clojure-minor-mode)
 (add-hook 'clojure-mode-hook 'turn-on-eldoc-mode)
 
-
 ;;;;
 ;; Cider
 ;;;;
 
 ;; provides minibuffer documentation for the code you're typing into the repl
 (add-hook 'cider-mode-hook 'cider-turn-on-eldoc-mode)
-
-;; When there's a cider error, show its buffer and switch to it
 (setq cider-show-error-buffer nil)
 (setq cider-auto-select-error-buffer nil)
-
-;; Where to store the cider history.
-;(setq cider-repl-history-file "~/.emacs.d/cider-history")
-
-;; Wrap when navigating history.
-;(setq cider-repl-wrap-history t)
-
-;; enable paredit in your REPL
 (add-hook 'cider-repl-mode-hook 'paredit-mode)
 
 ;; Use clojure mode for other extensions

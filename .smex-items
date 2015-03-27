@@ -1,99 +1,16 @@
 
 ;; ----- smex-history -----
 (
- shell
- color-theme-select
- customize-themes
- eval-buffer
- reveal-mode
- clear-rectangle
- eshell
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+ erc
+ ert
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 96)
- (cider-jack-in . 94)
- (package-list-packages . 5)
- (shell . 51)
- (package-refresh-contents . 21)
- (list-packages . 19)
- (customize-variable . 1)
- (cider . 2)
- (inf-clojure . 1)
- (move-end-of-line . 1)
- (mouse-drag-vertical-line . 1)
- (drag-stuff-mode . 1)
- (cider-mode . 3)
- (cider-repl-mode . 1)
- (color-theme-select . 9)
- (cider-popup-buffer-quit . 1)
- (cider-refresh . 2)
- (cider-restart . 5)
- (customize-themes . 9)
- (color-theme-dark-erc . 1)
- (global-prettify-symbols-mode . 1)
- (pretty-symbols-mode . 1)
- (ad-update-all . 1)
- (ac-nrepl-setup . 1)
- (info-display-manual . 1)
- (c++-mode . 2)
- (ghc-auto . 1)
- (browse-url-chromium . 1)
- (c-c++-menu . 1)
- (gdb . 1)
- (fortune-compile . 2)
- (compile . 6)
- (haskell-mode-format-imports . 1)
- (hi2-mode . 1)
- (company-cabal . 1)
- (haskell-cabal-mode . 1)
- (dired . 1)
- (erc . 23)
- (eval-buffer . 114)
- (haskell-customize . 1)
- (package-menu-refresh . 2)
- (auto-complete . 1)
- (emacs-version . 1)
- (flymake-mode . 5)
- (cmake-project-mode . 2)
- (cmake-project-configure-project . 1)
- (color-theme-install-at-point-for-current-frame . 1)
- (color-theme-buffer-local . 1)
- (erc-button-enable . 1)
- (erc-button-mode . 4)
- (erc-quit-server . 1)
- (global-linum-mode . 1)
- (kibit-mode . 3)
- (flycheck-mode . 1)
- (flycheck-next-error . 1)
- (flycheck-clojure-setup . 2)
- (define-mail-alias . 1)
- (slime . 3)
- (lambda-mode . 1)
- (pymacs-eval . 1)
- (pymacs-exec . 1)
- (update-file-autoloads . 1)
- (go-mode . 1)
- (godoc . 1)
- (clojure-env-new-clojurescript . 1)
- (describe-variable . 1)
- (ecb-activate . 1)
- (ecb-update-directories-buffer . 1)
- (ghci-script-mode . 1)
- (ghc-core-mode . 3)
- (kill-buffer . 1)
- (eshell . 4)
- (ansi-term . 2)
- (term . 1)
- (semantic-gcc-setup . 1)
- (cygwin-shell . 16)
- (haskell-simple-indent-mode . 2)
- (haskell-indentation-mode . 2)
- (autopair-mode . 2)
- (haskell-indent-mode . 2)
- (fci-mode . 1)
- (haskell-mode . 1)
- (clear-rectangle . 1)
- (reveal-mode . 1)
+ 
 )
