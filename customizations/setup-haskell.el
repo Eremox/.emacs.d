@@ -12,15 +12,10 @@
 (autoload 'ghc-debug "ghc" nil t)
 (add-hook 'haskell-mode-hook (lambda () (ghc-init)))
 
-;; Indentation
 ;(add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
 (require 'hi2)
 (add-hook 'haskell-mode-hook 'turn-on-hi2)
-
-;; stylish-haskell , integrated in haskell-mode but downloaded separately.
 (setq haskell-stylish-on-save t)
-
-;; flycheck for haskell
 (eval-after-load 'flycheck '(require 'flycheck-hdevtools))
 
 ;; Custom Interactive Commands
