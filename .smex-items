@@ -1,18 +1,22 @@
 
 ;; ----- smex-history -----
 (
- list-packages
  shell
  eval-buffer
+ column-marker-1
+ package-install
+ list-packages
  cd
  5x5
- arp
- dbx
 )
 
 ;; ----- smex-data -----
 (
- (eval-buffer . 6)
- (shell . 2)
+ (eval-buffer . 13)
+ (shell . 10)
  (list-packages . 1)
+ (package-install . 1)
+ (column-marker-1 . 1)
+ (column-marker-3 . 2)
+ (column-marker-2 . 1)
 )

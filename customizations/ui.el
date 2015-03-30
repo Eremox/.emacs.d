@@ -9,7 +9,7 @@
 
 (require 'ecb)
 (require 'color-theme)
-(require 'golden-ratio)
+;; (require 'golden-ratio)
 
 (add-hook 'after-change-major-mode-hook 'fci-mode)
 
@@ -19,7 +19,10 @@
 ;(load-theme 'soothe t)
 ;(color-theme-initialize)
 ;(color-theme-molokai)
-(load-theme 'junio)
+(load-theme 'granger)                       ; Brin, Granger, spolsky,
+                                            ; Graham, Odersky, Hickey,
+                                            ; Fogus, Dorsey, McCarthy,
+                                            ; Wilson, Junio.
 
 ;; Standard settings. Do not touch
 (setq x-select-enable-clipboard t
@@ -44,20 +47,22 @@
 
 (add-hook 'after-change-major-mode-hook 'fci-mode) ; column marker
 (global-font-lock-mode 1)
-(size-indication-mode 1)                       ; Shows buffer size
+;(size-indication-mode 1)                       ; Shows buffer size
 (delete-selection-mode 1)                      ; Replace/delete active region by typing
-(golden-ratio-mode 1)                          ; Automaticaly resizes windows
+;(golden-ratio-mode 1)                          ; Automaticaly resizes windows
                                                ; to golden ratio
 
-(set-frame-font "-*-Monaco-Normal-*-*-*-14-*-*-m-0-iso10646-1")
+(set-frame-font "-*-Monaco-Normal-*-*-*-14-*-*-*-0-iso10646-1")
 (cua-mode t)                                   ; Cut/Paste with C-x/C-c/C-v
 (tool-bar-mode -1)                             ; No toolbar
 (menu-bar-mode -1)                             ; No menubar
 (scroll-bar-mode -1)                           ; No scrollbar
 ;(set-scroll-bar-mode 'right)                   ; Scrollbar on the right
 (setq inhibit-startup-message t)               ; No message at startup
-(setq visible-bell nil)                          ; No beep when reporting errors
+(setq visible-bell nil)                        ; No beep when reporting errors
 (global-hl-line-mode t)                        ; Highlight cursor line
+;(set-face-foreground 'highlight nil)           ; Highlighting in the current line
+(set-face-background 'hl-line "#222222")       ; Back ground color current line.
 
 (blink-cursor-mode 0)                          ; No blinking cursor
 ;(setq-default cursor-type 'bar)
@@ -70,7 +75,7 @@
 
 (setq auto-save-timeout 60)                    ; Autosave every minute
 ;(desktop-save-mode t)                          ; Save session before quitting
-(setq confirm-kill-emacs 'yes-or-no-p)         ; Confirm quit
+;(setq confirm-kill-emacs 'yes-or-no-p)         ; Confirm quit
 (setq make-backup-files nil)                   ; No backup files ~
 (setq read-file-name-completion-ignore-case t) ; Ignore case when completing file names
 
@@ -80,7 +85,7 @@
 (setq next-line-add-newlines t)                ; Add newline when at buffer end
 (setq require-final-newline t)                 ; Always newline at end of file
 (show-paren-mode 1)                            ; Highlight parenthesis pairs
-(setq blink-matching-paren-distance nil)       ; Blinking parenthesis
+;(setq blink-matching-paren-distance nil)       ; Blinking parenthesis
 
 (set-language-environment "UTF-8")             ; Default text format
 (setq undo-limit 10000)                        ; Increase number of undo

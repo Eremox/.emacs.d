@@ -2,58 +2,103 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("c:/Users/Tobias/documents/" . "emacs/")
+ ("c:/Users/Tobias/documents/emacs/haskell/Kint/" . "src/")
+ ("c:/Users/Tobias/documents/emacs/haskell/" . "Kint/")
+ ("c:/Users/Tobias/documents/emacs/" . "haskell/")
+ ("c:/users/tobias/.emacs.d/" . "customizations/")
+ ("c:/users/tobias/" . ".emacs.d/")
  ("c:/Users/Tobias/Documents/emacs/haskell/" . "Kint/")
  ("c:/users/tobias/documents/emacs/" . "haskell/")
  ("c:/Users/Tobias/.emacs.d/" . "customizations/")
- ("c:/Users/Tobias/Documents/emacs/" . "haskell/")
+ ("c:/Users/Tobias/Documents/emacs/" . "TAOCP-exercises/")
  ("c:/Users/Tobias/Documents/" . "emacs/")
  ("c:/Users/" . "Tobias/")
  ("c:/" . "Users/")
- ("c:/Users/Tobias/" . "Documents/")
+ ("c:/Users/Tobias/" . ".emacs.d/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "c:/Users/Tobias/Documents/emacs/haskell/Kint/"
+ "c:/Users/Tobias/documents/emacs/haskell/Kint/src/"
+ "c:/Users/Tobias/documents/emacs/TAOCP-exercises/"
+ "c:/Users/Tobias/Documents/emacs/TAOCP-exercises/"
+ "c:/Users/Tobias/Documents/emacs/haskell/Kint/src/"
  "c:/Users/Tobias/.emacs.d/customizations/"
+ "c:/Users/Tobias/documents/emacs/haskell/Hangman/"
+ "c:/Users/Tobias/Documents/emacs/haskell/"
+ "c:/Users/Tobias/Documents/emacs/haskell/Kint/"
+ "c:/Users/Tobias/documents/emacs/haskell/Kint/"
+ "c:/users/tobias/.emacs.d/customizations/"
  "c:/users/tobias/documents/emacs/haskell/"
  "c:/Users/Tobias/.emacs.d/"
- "c:/Users/Tobias/Documents/emacs/haskell/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "Kint.cabal"
  "Evaluator.hs"
+ "HarmonicGenerator.hs"
+ "Parser.hs"
+ "Primitives.hs"
  "ui.el"
+ "Main.hs"
+ "hangman.hs"
  "monads.hs"
- "init.el"
- "setup-haskell.el"
+ "Kint.cabal"
+ "LinearCongruentialMethod.hs"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/Tobias/Documents/emacs/haskell/Kint/" (21782 17709 0 0) "StdKint/" "Setup.hs" "report.html" "repl.exe" "primitives.o" "Primitives.hs" "primitives.hi" "parser.o" "Parser.hs" "parser.hi" "main.o" "Main.hs" "main.hi" "LICENSE" "Kint.cabal" "evaluator.o" "Evaluator.hs" "evaluator.hi" "dist/" ".gitignore" ".gitattributes" ".git/" "../" "./")
+ ("c:/Users/Tobias/documents/emacs/haskell/Kint/src/" (21784 58640 0 0) "Primitives.hs" "Parser.hs" "Main.hs" "Evaluator.hs" "../" "./")
+
+ ("c:/Users/Tobias/documents/emacs/TAOCP-exercises/" (21785 17823 0 0) "LinearCongruentialMethod.hs" "HarmonicGenerator.hs" "../" "./")
+
+ ("c:/Users/Tobias/Documents/emacs/TAOCP-exercises/" (21784 25990 0 0) "LinearCongruentialMethod.hs" "HarmonicGenerator.hs" "../" "./")
+
+ ("c:/Users/Tobias/Documents/emacs/haskell/Kint/src/" (21784 58640 0 0) "Primitives.hs" "Parser.hs" "Main.hs" "Evaluator.hs" "../" "./")
+
+ ("c:/Users/Tobias/.emacs.d/customizations/" (21784 16625 0 0) "ui.el" "shell-integration.el" "setup-kint.el" "setup-haskell.el" "setup-clojure.el" "setup-c.el" "misc.el" "../" "./")
+
+ ("c:/Users/Tobias/.emacs.d/" (21784 56997 0 0) "themes/" "init.el" "ido.last" "extensions/" "elpa/" "customizations/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("c:/Users/Tobias/" (21784 56196 0 0) "_viminfo" "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "Favorites/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" ".swt/" ".ssh/" ".p2/" ".minttyrc" ".m2/" ".lein/" ".gitconfig" ".emacs.d/" ".bash_history" ".accessibility.properties" "../" "./")
+
+ ("c:/users/tobias/documents/emacs/haskell/" (21784 13223 0 0) "NewHSFileGenerator/" "monads.hs" "Kint/" "Haskell99.hs" "Hangman/" "../" "./")
+
+ ("c:/Users/Tobias/Documents/emacs/haskell/" (21784 13223 0 0) "NewHSFileGenerator/" "monads.hs" "Kint/" "Haskell99.hs" "Hangman/" "../" "./")
+
+ ("c:/Users/Tobias/documents/emacs/haskell/Hangman/" (21784 63734 0 0) "HangmanASCII.hs" "hangman.hs" "enable1.txt" "../" "./")
+
+ ("c:/Users/Tobias/documents/emacs/haskell/" (21784 13223 0 0) "NewHSFileGenerator/" "monads.hs" "Kint/" "Haskell99.hs" "Hangman/" "../" "./")
+
+ ("c:/Users/Tobias/documents/Custom Office Templates/" (21773 6178 0 0) "../" "./")
+
+ ("c:/users/tobias/.emacs.d/customizations/" (21783 39239 0 0) "ui.el" "shell-integration.el" "setup-kint.el" "setup-haskell.el" "setup-clojure.el" "setup-c.el" "misc.el" "../" "./")
+
+ ("c:/Users/Tobias/Documents/emacs/haskell/Kint/" (21783 39899 0 0) "StdKint/" "src/" "Setup.hs" "report.html" "repl.exe" "LICENSE" "Kint.cabal" "dist/" "cabal.sandbox.config" ".gitignore" ".gitattributes" ".git/" ".cabal-sandbox/" "../" "./")
+
+ ("c:/Users/Tobias/documents/emacs/haskell/Kint/" (21783 39899 0 0) "StdKint/" "src/" "Setup.hs" "report.html" "repl.exe" "LICENSE" "Kint.cabal" "dist/" "cabal.sandbox.config" ".gitignore" ".gitattributes" ".git/" ".cabal-sandbox/" "../" "./")
+
+ ("c:/Users/Tobias/Documents/emacs/" (21782 56963 0 0) "TAOCP-exercises/" "projects/" "java/" "haskell/" "github-repos/" "competitive_programming/" "clojure/" "c/" "../" "./")
+
+ ("c:/Users/Tobias/documents/emacs/" (21782 56963 0 0) "TAOCP-exercises/" "projects/" "java/" "haskell/" "github-repos/" "competitive_programming/" "clojure/" "c/" "../" "./")
+
+ ("c:/users/tobias/.emacs.d/" (21782 18339 0 0) "themes/" "init.el" "ido.last" "extensions/" "elpa/" "customizations/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("c:/users/tobias/AppData/" (21703 58041 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/users/tobias/" (21782 54536 0 0) "_viminfo" "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "Favorites/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" ".swt/" ".ssh/" ".p2/" ".minttyrc" ".m2/" ".lein/" ".gitconfig" ".emacs.d/" ".bash_history" ".accessibility.properties" "../" "./")
+
+ ("c:/users/tobias/documents/" (21779 8728 0 0) "My Videos/" "My Pictures/" "My Music/" "GitHub/" "emacs/" "Diablo III/" "desktop.ini" "Custom Office Templates/" "../" "./")
 
  ("c:/Users/Tobias/Downloads/" (21781 52019 0 0) "Robot.Overlords.2014.HDRip.XviD.AC3-EVO/" "MacTypeInstaller_2013_1231_0.exe" "Kingsman-The.Secret.Service.2014.HDCAM.XVID.AC3.HQ.Hive-CM8/" "Jupiter Ascending 2015 HQC@M MP4 MURD3R/" "Into the Woods (2014) [1080p]/" "Interstellar.2014.1080p.BluRay.H264.AAC-RARBG/" "Hackers.Game.2015.HDRip.XViD-juggs[ETRG]/" "DjVuLibre-3.5.27_DjView-4.10.1_Setup.exe" "desktop.ini" "../" "./")
 
- ("c:/Users/Tobias/Documents/emacs/haskell/" (21781 52092 0 0) "NewHSFileGenerator/" "monads.hs" "Kint/" "Haskell99.hs" "Hangman/" "../" "./")
-
  ("c:/Users/Tobias/Desktop/" (21781 52042 0 0) "Photoshop.lnk" "Golite IDE.lnk" "GitHub.appref-ms" "emacs.lnk" "desktop.ini" "Battle.net.lnk" "Adobe Illustrator CC (64 Bit).lnk" "../" "./")
-
- ("c:/Users/Tobias/.emacs.d/" (21782 17663 0 0) "themes/" "init.el" "ido.last" "extensions/" "elpa/" "customizations/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".gitattributes" ".git/" "../" "./")
-
- ("c:/Users/Tobias/.emacs.d/customizations/" (21782 17665 0 0) "ui.el" "shell-integration.el" "setup-kint.el" "setup-haskell.el" "setup-clojure.el" "setup-c.el" "misc.el" "../" "./")
-
- ("c:/Users/Tobias/" (21782 17105 0 0) "_viminfo" "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{889d499b-0b5e-11e3-93f9-90b11c1ccade}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "Favorites/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" ".swt/" ".ssh/" ".p2/" ".minttyrc" ".m2/" ".lein/" ".gitconfig" ".emacs.d/" ".bash_history" ".accessibility.properties" "../" "./")
-
- ("c:/users/tobias/documents/emacs/haskell/" (21781 6343 0 0) "NewHSFileGenerator/" "monads.hs" "Kint/" "Haskell99.hs" "Hangman/" "../" "./")
 
  ("c:/users/tobias/documents/emacs/c/" (21770 27756 0 0) "NUL" "makefile" "main.c" "hellomake.exe" "../" "./")
 
  ("c:/users/tobias/documents/emacs/" (21780 64218 0 0) "projects/" "java/" "haskell/" "github-repos/" "competitive_programming/" "clojure/" "c/" "../" "./")
-
- ("c:/Users/Tobias/Documents/emacs/" (21780 64218 0 0) "projects/" "java/" "haskell/" "github-repos/" "competitive_programming/" "clojure/" "c/" "../" "./")
 
  ("c:/Users/Tobias/Documents/" (21779 8728 0 0) "My Videos/" "My Pictures/" "My Music/" "GitHub/" "emacs/" "Diablo III/" "desktop.ini" "Custom Office Templates/" "../" "./")
 
@@ -68,8 +113,6 @@
  ("c:/Program Files/emacs/bin/" (21773 36980 0 0) "zlib1.dll" "runemacs.exe" "libXpm-noX4.dll" "libxml2-2.dll" "libwinpthread-1.dll" "libtiffxx-5.dll" "libtiff-5.dll" "libtasn1-6.dll" "librsvg-2-2.dll" "libpng16-16.dll" "libpixman-1-0.dll" "libpangowin32-1.0-0.dll" "libpangoft2-1.0-0.dll" "libpangocairo-1.0-0.dll" "libpango-1.0-0.dll" "libp11-kit-0.dll" "libnettle-4-7.dll" "liblzma-5.dll" "libjpeg-8.dll" "libjbig-0.dll" "libintl-8.dll" "libiconv-2.dll" "libhogweed-2-5.dll" "libharfbuzz-icu-0.dll" "libharfbuzz-gobject-0.dll" "libharfbuzz-0.dll" "libgomp-1.dll" "libgobject-2.0-0.dll" "libgnutlsxx-28.dll" "libgnutls-openssl-27.dll" "libgnutls-28.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgdk_pixbuf-2.0-0.dll" "libgcc_s_seh-1.dll" "libfreetype-6.dll" "libfontconfig-1.dll" "libffi-6.dll" "libexpat-1.dll" "libdbus-1-3.dll" "libcroco-0.6-3.dll" "libcairo-script-interpreter-2.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "grep-changelog" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-24.4.91.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
 
  ("c:/Users/Tobias/documents/" (21779 8728 0 0) "My Videos/" "My Pictures/" "My Music/" "GitHub/" "emacs/" "Diablo III/" "desktop.ini" "Custom Office Templates/" "../" "./")
-
- ("c:/Users/Tobias/documents/emacs/" (21780 64218 0 0) "projects/" "java/" "haskell/" "github-repos/" "competitive_programming/" "clojure/" "c/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
