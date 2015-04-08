@@ -9,17 +9,19 @@
 
 (require 'ecb)
 (require 'color-theme)
+(require 'powerline)
 ;; (require 'golden-ratio)
 
+(powerline-default-theme)
 (add-hook 'after-change-major-mode-hook 'fci-mode)
 
 ;; Load theme.
 ;(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 ;(add-to-list 'load-path "~/.emacs.d/themes")
-;(load-theme 'soothe t)
+(load-theme 'soothe t)
 ;(color-theme-initialize)
 ;(color-theme-molokai)
-(load-theme 'granger)                       ; Brin, Granger, spolsky,
+;(load-theme 'spolsky)                       ; Brin, Granger, spolsky,
                                             ; Graham, Odersky, Hickey,
                                             ; Fogus, Dorsey, McCarthy,
                                             ; Wilson, Junio.

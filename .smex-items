@@ -3,20 +3,22 @@
 (
  shell
  eval-buffer
- column-marker-1
+ org-mode
  package-install
+ scheme-mode
+ column-marker-1
  list-packages
- cd
- 5x5
 )
 
 ;; ----- smex-data -----
 (
- (eval-buffer . 13)
- (shell . 10)
+ (eval-buffer . 28)
+ (shell . 15)
  (list-packages . 1)
- (package-install . 1)
+ (package-install . 2)
  (column-marker-1 . 1)
  (column-marker-3 . 2)
  (column-marker-2 . 1)
+ (scheme-mode . 1)
+ (org-mode . 1)
 )

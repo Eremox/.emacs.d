@@ -127,6 +127,7 @@
 
 ;; Environment
 (load "shell-integration.el")
+(load "setup-keyboard.el")
 (load "misc.el")
 (load "ui.el")
 
